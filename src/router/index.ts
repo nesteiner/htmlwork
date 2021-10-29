@@ -24,6 +24,11 @@ const routes: Array<RouteRecordRaw> = [
 		path: '/css',
 		name: 'css',
 		component: () => import('@/views/css.vue')
+	},
+	{
+	  path: '/jswork',
+	  name: 'jswork',
+	  component: () => import('@/views/jswork.vue')
 	}
 ]
 

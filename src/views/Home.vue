@@ -1,7 +1,8 @@
 <template>
   <div class="home">
     <router-link to="/canvas">Canvas work</router-link> <br>
-    <router-link to="/css">CSS work</router-link>
+    <router-link to="/css">CSS work</router-link> <br>
+    <router-link to="/jswork">JS work</router-link>
   </div>
 </template>
 
