@@ -33,8 +33,13 @@ const routes: Array<RouteRecordRaw> = [
 
 	{
 		path: '/jswork2',
-		name: 'jswork',
+		name: 'jswork2',
 		component: () => import('@/views/jswork2.vue')
+	},
+	{
+		path: '/vuework',
+		name: 'vuework',
+		component: () => import('@/views/vuework.vue')
 	}
 ]
 
