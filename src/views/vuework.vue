@@ -99,7 +99,7 @@
    span.operate {
      display: flex;
      flex-direction: column;
-     justify-content: end;
+     justify-content: flex-end;
      cursor: pointer;
    }
  }
