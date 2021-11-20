@@ -1,12 +1,12 @@
-Info 0    [00:30:33.994] Starting TS Server
-Info 1    [00:30:33.995] Version: 4.2.4
-Info 2    [00:30:33.995] Arguments: /usr/bin/node /usr/local/bin/tsserver --logFile /home/steiner/disk/disk1/workspace/school-work/htmlwork/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/d4d617b69d96dfa8bcbfe13a8ebb8a11/tscancellation*
-Info 3    [00:30:33.995] Platform: linux NodeVersion: 10 CaseSensitive: true
-Info 4    [00:30:33.995] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
-Info 5    [00:30:34.011] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router
-Info 6    [00:30:34.013] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 7    [00:30:34.013] Opened configuration file /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 8    [00:30:34.034] Config: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json : {
+Info 0    [00:57:30.503] Starting TS Server
+Info 1    [00:57:30.504] Version: 4.2.4
+Info 2    [00:57:30.504] Arguments: /usr/bin/node /usr/local/bin/tsserver --logFile /home/steiner/disk/disk1/workspace/school-work/htmlwork/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/44df6a93456e3069f692ddd6407bc25b/tscancellation*
+Info 3    [00:57:30.504] Platform: linux NodeVersion: 10 CaseSensitive: true
+Info 4    [00:57:30.504] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [00:57:30.519] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork
+Info 6    [00:57:30.520] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 7    [00:57:30.520] Opened configuration file /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 8    [00:57:30.540] Config: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json : {
  "rootNames": [
   "/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/main.ts",
   "/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/shims-vue.d.ts",
@@ -47,237 +47,144 @@ Info 8    [00:30:34.034] Config: /home/steiner/disk/disk1/workspace/school-work/
   "configFilePath": "/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json"
  }
 }
-Info 9    [00:30:34.047] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 10   [00:30:36.802] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 1 structureChanged: true Elapsed: 2754.400637000799ms
-Info 11   [00:30:36.802] Project '/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json' (Configured)
-Info 12   [00:30:36.802] 	Files (66)
+Info 9    [00:57:30.549] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 10   [00:57:32.929] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 1 structureChanged: true Elapsed: 2379.8262899816036ms
+Info 11   [00:57:32.929] Project '/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json' (Configured)
+Info 12   [00:57:32.930] 	Files (66)
 
-Info 13   [00:30:36.802] -----------------------------------------------
-Info 14   [00:31:45.545] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 15   [00:31:45.612] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 2 structureChanged: true Elapsed: 66.57178997993469ms
-Info 16   [00:31:45.613] Different program with same set of files:: structureIsReused:: 1
-Info 17   [00:31:45.927] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 18   [00:31:46.004] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 3 structureChanged: true Elapsed: 76.41626501083374ms
-Info 19   [00:31:46.004] Different program with same set of files:: structureIsReused:: 1
-Info 20   [00:31:46.007] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 21   [00:31:46.046] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 4 structureChanged: true Elapsed: 39.46118900179863ms
-Info 22   [00:31:46.046] Different program with same set of files:: structureIsReused:: 1
-Info 23   [00:31:46.395] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 24   [00:31:46.412] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 5 structureChanged: true Elapsed: 16.726780980825424ms
-Info 25   [00:31:46.412] Different program with same set of files:: structureIsReused:: 1
-Info 26   [00:31:47.724] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 27   [00:31:47.781] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 6 structureChanged: true Elapsed: 56.85659500956535ms
-Info 28   [00:31:47.781] Different program with same set of files:: structureIsReused:: 1
-Info 29   [00:31:49.430] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 30   [00:31:49.481] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 7 structureChanged: true Elapsed: 50.43927699327469ms
-Info 31   [00:31:49.481] Different program with same set of files:: structureIsReused:: 1
-Info 32   [00:31:50.337] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 33   [00:31:50.396] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 8 structureChanged: true Elapsed: 58.37211200594902ms
-Info 34   [00:31:50.396] Different program with same set of files:: structureIsReused:: 1
-Info 35   [00:31:50.538] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 36   [00:31:50.575] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 9 structureChanged: true Elapsed: 37.02562898397446ms
-Info 37   [00:31:50.575] Different program with same set of files:: structureIsReused:: 1
-Info 38   [00:31:50.880] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 39   [00:31:50.898] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 10 structureChanged: true Elapsed: 17.87226700782776ms
-Info 40   [00:31:50.898] Different program with same set of files:: structureIsReused:: 1
-Info 41   [00:31:51.750] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 42   [00:31:51.804] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 11 structureChanged: true Elapsed: 53.764308005571365ms
-Info 43   [00:31:51.804] Different program with same set of files:: structureIsReused:: 1
-Info 44   [00:31:52.524] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 45   [00:31:52.581] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 12 structureChanged: true Elapsed: 56.70899200439453ms
-Info 46   [00:31:52.582] Different program with same set of files:: structureIsReused:: 1
-Info 47   [00:31:53.145] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 48   [00:31:53.202] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 13 structureChanged: true Elapsed: 55.95658800005913ms
-Info 49   [00:31:53.202] Different program with same set of files:: structureIsReused:: 1
-Info 50   [00:31:53.351] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 51   [00:31:53.381] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 14 structureChanged: true Elapsed: 30.302939981222153ms
-Info 52   [00:31:53.381] Different program with same set of files:: structureIsReused:: 1
-Info 53   [00:31:53.655] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 54   [00:31:53.715] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 15 structureChanged: true Elapsed: 58.546050012111664ms
-Info 55   [00:31:53.715] Different program with same set of files:: structureIsReused:: 1
-Info 56   [00:31:53.822] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 57   [00:31:53.852] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 16 structureChanged: true Elapsed: 30.11860501766205ms
-Info 58   [00:31:53.852] Different program with same set of files:: structureIsReused:: 1
-Info 59   [00:31:54.157] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 60   [00:31:54.174] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 17 structureChanged: true Elapsed: 16.63482302427292ms
-Info 61   [00:31:54.174] Different program with same set of files:: structureIsReused:: 1
-Info 62   [00:31:54.597] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 63   [00:31:54.656] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 18 structureChanged: true Elapsed: 58.46049699187279ms
-Info 64   [00:31:54.656] Different program with same set of files:: structureIsReused:: 1
-Info 65   [11:08:32.146] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 66   [11:08:32.182] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 19 structureChanged: false Elapsed: 31.530679017305374ms
-Info 67   [11:08:32.182] Different program with same set of files:: structureIsReused:: 2
-Info 68   [11:09:15.820] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 69   [11:09:15.837] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 20 structureChanged: false Elapsed: 16.881435990333557ms
-Info 70   [11:09:15.837] Different program with same set of files:: structureIsReused:: 2
-Info 71   [11:09:16.496] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 72   [11:09:16.517] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 21 structureChanged: false Elapsed: 20.791996985673904ms
-Info 73   [11:09:16.518] Different program with same set of files:: structureIsReused:: 2
-Info 74   [11:09:17.056] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 75   [11:09:17.078] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 22 structureChanged: false Elapsed: 21.294548988342285ms
-Info 76   [11:09:17.078] Different program with same set of files:: structureIsReused:: 2
-Info 77   [11:09:17.262] Format host information updated
-Info 78   [11:09:17.497] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 79   [11:09:17.517] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 23 structureChanged: false Elapsed: 19.35308501124382ms
-Info 80   [11:09:17.517] Different program with same set of files:: structureIsReused:: 2
-Info 81   [11:09:18.449] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 82   [11:09:18.480] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 24 structureChanged: false Elapsed: 29.99440598487854ms
-Info 83   [11:09:18.480] Different program with same set of files:: structureIsReused:: 2
-Info 84   [11:09:18.635] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 85   [11:09:18.641] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 25 structureChanged: false Elapsed: 6.39197501540184ms
-Info 86   [11:09:18.642] Different program with same set of files:: structureIsReused:: 2
-Info 87   [11:09:18.940] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 88   [11:09:18.968] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 26 structureChanged: false Elapsed: 27.45185700058937ms
-Info 89   [11:09:18.968] Different program with same set of files:: structureIsReused:: 2
-Info 90   [11:09:19.105] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 91   [11:09:19.122] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 27 structureChanged: false Elapsed: 16.292814016342163ms
-Info 92   [11:09:19.122] Different program with same set of files:: structureIsReused:: 2
-Info 93   [11:09:19.561] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 94   [11:09:19.591] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 28 structureChanged: false Elapsed: 29.74396899342537ms
-Info 95   [11:09:19.591] Different program with same set of files:: structureIsReused:: 2
-Info 96   [11:09:20.785] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 97   [11:09:20.815] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 29 structureChanged: false Elapsed: 29.16464701294899ms
-Info 98   [11:09:20.815] Different program with same set of files:: structureIsReused:: 2
-Info 99   [11:09:21.012] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 100  [11:09:21.017] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 30 structureChanged: false Elapsed: 5.48750501871109ms
-Info 101  [11:09:21.017] Different program with same set of files:: structureIsReused:: 2
-Info 102  [11:09:21.421] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 103  [11:09:21.447] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 31 structureChanged: false Elapsed: 25.31479400396347ms
-Info 104  [11:09:21.447] Different program with same set of files:: structureIsReused:: 2
-Info 105  [11:09:21.643] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 106  [11:09:21.648] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 32 structureChanged: false Elapsed: 5.1526879966259ms
-Info 107  [11:09:21.648] Different program with same set of files:: structureIsReused:: 2
-Info 108  [11:09:22.101] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 109  [11:09:22.108] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 33 structureChanged: false Elapsed: 7.1025750041008ms
-Info 110  [11:09:22.109] Different program with same set of files:: structureIsReused:: 2
-Info 111  [11:09:22.289] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 112  [11:09:22.296] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 34 structureChanged: false Elapsed: 6.880717992782593ms
-Info 113  [11:09:22.296] Different program with same set of files:: structureIsReused:: 2
-Info 114  [11:09:22.848] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 115  [11:09:22.876] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 35 structureChanged: false Elapsed: 28.07652398943901ms
-Info 116  [11:09:22.877] Different program with same set of files:: structureIsReused:: 2
-Info 117  [11:09:23.789] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 118  [11:09:23.834] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 36 structureChanged: false Elapsed: 44.52074697613716ms
-Info 119  [11:09:23.834] Different program with same set of files:: structureIsReused:: 2
-Info 120  [11:09:24.156] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 121  [11:09:24.189] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 37 structureChanged: false Elapsed: 32.221804022789ms
-Info 122  [11:09:24.189] Different program with same set of files:: structureIsReused:: 2
-Info 123  [11:09:24.297] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 124  [11:09:24.304] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 38 structureChanged: false Elapsed: 7.173161000013351ms
-Info 125  [11:09:24.305] Different program with same set of files:: structureIsReused:: 2
-Info 126  [11:09:24.512] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 127  [11:09:24.537] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 39 structureChanged: false Elapsed: 23.968360006809235ms
-Info 128  [11:09:24.537] Different program with same set of files:: structureIsReused:: 2
-Info 129  [11:09:25.805] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 130  [11:09:25.825] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 40 structureChanged: false Elapsed: 18.312537997961044ms
-Info 131  [11:09:25.825] Different program with same set of files:: structureIsReused:: 2
-Info 132  [11:09:26.025] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 133  [11:09:26.031] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 41 structureChanged: false Elapsed: 6.035183012485504ms
-Info 134  [11:09:26.031] Different program with same set of files:: structureIsReused:: 2
-Info 135  [11:09:26.234] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 136  [11:09:26.237] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 42 structureChanged: false Elapsed: 3.556288003921509ms
-Info 137  [11:09:26.237] Different program with same set of files:: structureIsReused:: 2
-Info 138  [11:09:26.479] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 139  [11:09:26.488] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 43 structureChanged: false Elapsed: 8.428519010543823ms
-Info 140  [11:09:26.488] Different program with same set of files:: structureIsReused:: 2
-Info 141  [11:09:27.630] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 142  [11:09:27.664] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 44 structureChanged: false Elapsed: 33.80140799283981ms
-Info 143  [11:09:27.664] Different program with same set of files:: structureIsReused:: 2
-Info 144  [11:09:27.975] getCompletionData: Get current token: 0.022311002016067505
-Info 145  [11:09:27.975] getCompletionData: Is inside comment: 0.06696298718452454
-Info 146  [11:09:27.975] getCompletionData: Get previous token 1: 0.05887901782989502
-Info 147  [11:09:27.975] getCompletionData: Get previous token 2: 0.045571982860565186
-Info 148  [11:09:27.976] getCompletionsAtPosition: isCompletionListBlocker: 0.7234350144863129
-Info 149  [11:09:27.985] getCompletionData: Semantic work: 8.897424012422562
-Info 150  [11:09:27.989] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 1.7470449805259705
-Info 151  [11:09:28.778] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 152  [11:09:28.811] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 45 structureChanged: false Elapsed: 32.50847300887108ms
-Info 153  [11:09:28.811] Different program with same set of files:: structureIsReused:: 2
-Info 154  [11:09:28.812] getCompletionData: Get current token: 0.08606499433517456
-Info 155  [11:09:28.813] getCompletionData: Is inside comment: 0.034879982471466064
-Info 156  [11:09:28.813] getCompletionData: Get previous token 1: 0.0903170108795166
-Info 157  [11:09:28.813] getCompletionData: Get previous token 2: 0.06841102242469788
-Info 158  [11:09:28.814] getCompletionsAtPosition: isCompletionListBlocker: 0.01933199167251587
-Info 159  [11:09:28.821] getCompletionData: Semantic work: 7.003410995006561
-Info 160  [11:09:28.837] getCompletionData: Get current token: 0.03495699167251587
-Info 161  [11:09:28.837] getCompletionData: Is inside comment: 0.016359001398086548
-Info 162  [11:09:28.837] getCompletionData: Get previous token 1: 0.04459500312805176
-Info 163  [11:09:28.837] getCompletionData: Get previous token 2: 0.04113098978996277
-Info 164  [11:09:28.837] getCompletionsAtPosition: isCompletionListBlocker: 0.007402002811431885
-Info 165  [11:09:28.839] getCompletionData: Semantic work: 1.589478999376297
-Info 166  [11:09:29.938] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 167  [11:09:29.962] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 46 structureChanged: false Elapsed: 23.503031998872757ms
-Info 168  [11:09:29.962] Different program with same set of files:: structureIsReused:: 2
-Info 169  [11:09:30.070] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 170  [11:09:30.077] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 47 structureChanged: false Elapsed: 7.327654004096985ms
-Info 171  [11:09:30.077] Different program with same set of files:: structureIsReused:: 2
-Info 172  [11:09:30.756] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 173  [11:09:30.775] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 48 structureChanged: false Elapsed: 18.393654018640518ms
-Info 174  [11:09:30.775] Different program with same set of files:: structureIsReused:: 2
-Info 175  [11:09:30.879] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 176  [11:09:30.888] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 49 structureChanged: false Elapsed: 8.340014010667801ms
-Info 177  [11:09:30.888] Different program with same set of files:: structureIsReused:: 2
-Info 178  [11:09:32.317] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 179  [11:09:32.341] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 50 structureChanged: false Elapsed: 23.811297982931137ms
-Info 180  [11:09:32.342] Different program with same set of files:: structureIsReused:: 2
-Info 181  [11:09:32.533] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 182  [11:09:32.539] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 51 structureChanged: false Elapsed: 5.7460309863090515ms
-Info 183  [11:09:32.539] Different program with same set of files:: structureIsReused:: 2
-Info 184  [11:09:33.011] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 185  [11:09:33.062] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 52 structureChanged: true Elapsed: 51.231865018606186ms
-Info 186  [11:09:33.063] Different program with same set of files:: structureIsReused:: 1
-Info 187  [11:09:33.165] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 188  [11:09:33.195] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 53 structureChanged: true Elapsed: 29.415697991847992ms
-Info 189  [11:09:33.195] Different program with same set of files:: structureIsReused:: 1
-Info 190  [11:09:33.449] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 191  [11:09:33.469] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 54 structureChanged: true Elapsed: 20.71222499012947ms
-Info 192  [11:09:33.470] Different program with same set of files:: structureIsReused:: 1
-Info 193  [11:09:34.103] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 194  [11:09:34.157] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 55 structureChanged: true Elapsed: 53.250199019908905ms
-Info 195  [11:09:34.157] Different program with same set of files:: structureIsReused:: 1
-Info 196  [11:09:34.257] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 197  [11:09:34.292] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 56 structureChanged: true Elapsed: 34.327311009168625ms
-Info 198  [11:09:34.292] Different program with same set of files:: structureIsReused:: 1
-Info 199  [11:09:35.365] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 200  [11:09:35.427] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 57 structureChanged: true Elapsed: 60.9038949906826ms
-Info 201  [11:09:35.427] Different program with same set of files:: structureIsReused:: 1
-Info 202  [11:09:35.937] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 203  [11:09:36.010] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 58 structureChanged: true Elapsed: 73.26597499847412ms
-Info 204  [11:09:36.011] Different program with same set of files:: structureIsReused:: 1
-Info 205  [11:09:36.136] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 206  [11:09:36.164] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 59 structureChanged: true Elapsed: 27.305573016405106ms
-Info 207  [11:09:36.164] Different program with same set of files:: structureIsReused:: 1
-Info 208  [11:09:36.693] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 209  [11:09:36.716] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 60 structureChanged: true Elapsed: 22.643047988414764ms
-Info 210  [11:09:36.716] Different program with same set of files:: structureIsReused:: 1
-Info 211  [11:09:36.800] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 212  [11:09:36.825] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 61 structureChanged: true Elapsed: 25.092353016138077ms
-Info 213  [11:09:36.825] Different program with same set of files:: structureIsReused:: 1
-Info 214  [11:09:37.245] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 215  [11:09:37.269] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 62 structureChanged: true Elapsed: 23.232044994831085ms
-Info 216  [11:09:37.269] Different program with same set of files:: structureIsReused:: 1
-Info 217  [11:09:37.328] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 218  [11:09:37.347] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 63 structureChanged: true Elapsed: 19.376602977514267ms
-Info 219  [11:09:37.347] Different program with same set of files:: structureIsReused:: 1
-Info 220  [11:09:37.823] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 221  [11:09:37.868] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 64 structureChanged: true Elapsed: 44.83941501379013ms
-Info 222  [11:09:37.868] Different program with same set of files:: structureIsReused:: 1
-Err 223   [11:09:37.961] Exception on executing command {"command":"getCodeFixes","seq":793,"type":"request","arguments":{"file":"/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts","startLine":42,"startOffset":49,"endLine":42,"endOffset":49,"errorCodes":[1002,2307]}}:
+Info 13   [00:57:32.930] -----------------------------------------------
+Info 14   [00:57:32.939] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 15   [00:57:34.264] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1324.9942820072174ms
+Info 16   [00:57:34.264] Project '/dev/null/inferredProject1*' (Inferred)
+Info 17   [00:57:34.264] 	Files (193)
 
-    Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
+Info 18   [00:57:34.264] -----------------------------------------------
+Info 19   [00:57:34.271] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 20   [00:57:34.530] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 258.13415199518204ms
+Info 21   [00:57:34.530] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 22   [00:57:34.530] 	Files (11)
 
-    Error: Debug Failure. Invalid cast. The supplied value [object Object] did not pass the test 'isStringLiteral'.
-        at Object.cast (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:1500:25)
-        at tryGetImportedPackageName (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:139695:33)
-        at Object.getCodeActions (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:139663:35)
-        at /usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:135493:77
-        at Object.flatMap (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:515:25)
-        at Object.getFixes (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:135493:23)
-        at /usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:149557:35
-        at Object.flatMap (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:515:25)
-        at Object.getCodeFixesAtPosition (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:149555:23)
-        at IOSession.Session.getCodeFixes (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160663:64)
-        at Session.handlers.ts.Map.ts.getEntries._a.(anonymous function) (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:159335:61)
+Info 23   [00:57:34.530] -----------------------------------------------
+Info 24   [00:57:34.594] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 25   [00:57:34.648] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 54.38020700216293ms
+Info 26   [00:57:34.648] Different program with same set of files:: structureIsReused:: 2
+Info 27   [00:57:34.659] getCompletionData: Get current token: 0.031076014041900635
+Info 28   [00:57:34.659] getCompletionData: Is inside comment: 0.06838598847389221
+Info 29   [00:57:34.659] getCompletionData: Get previous token 1: 0.029577016830444336
+Info 30   [00:57:34.660] getCompletionData: Get previous token 2: 0.01969701051712036
+Info 31   [00:57:34.664] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 32   [00:57:34.680] forEachExternalModuleToImportFrom: filtered out 139 modules by package.json contents
+Info 33   [00:57:34.683] forEachExternalModuleToImportFrom: filtered out 9 modules by package.json contents
+Info 34   [00:57:34.684] forEachExternalModuleToImportFrom autoImportProvider: 3.313988983631134
+Info 35   [00:57:34.684] getSymbolsFromOtherSourceFileExports: 20.213139981031418
+Info 36   [00:57:34.686] getCompletionData: Semantic work: 26.182625979185104
+Info 37   [00:57:34.705] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 18.30342999100685
+Info 38   [00:57:34.721] getCompletionData: Get current token: 0.007910013198852539
+Info 39   [00:57:34.721] getCompletionData: Is inside comment: 0.020346999168395996
+Info 40   [00:57:34.721] getCompletionData: Get previous token 1: 0.01109999418258667
+Info 41   [00:57:34.721] getCompletionData: Get previous token 2: 0.012263000011444092
+Info 42   [00:57:34.724] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 43   [00:57:34.727] getCompletionData: Semantic work: 6.0478439927101135
+Info 44   [00:57:34.739] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 10.974887996912003
+Info 45   [00:57:34.743] getCompletionData: Get current token: 0.004334002733230591
+Info 46   [00:57:34.743] getCompletionData: Is inside comment: 0.031233012676239014
+Info 47   [00:57:34.743] getCompletionData: Get previous token 1: 0.024812012910842896
+Info 48   [00:57:34.743] getCompletionData: Get previous token 2: 0.023218989372253418
+Info 49   [00:57:34.746] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 50   [00:57:34.746] getCompletionData: Semantic work: 2.990022987127304
+Info 51   [00:57:34.760] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 13.22563499212265
+Info 52   [00:57:34.764] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 53   [00:57:34.802] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 38.1479090154171ms
+Info 54   [00:57:34.802] Different program with same set of files:: structureIsReused:: 2
+Info 55   [00:57:34.804] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 56   [00:57:34.840] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 36.262957990169525ms
+Info 57   [00:57:34.840] Different program with same set of files:: structureIsReused:: 2
+Info 58   [00:57:34.842] getCompletionData: Get current token: 0.0038560032844543457
+Info 59   [00:57:34.842] getCompletionData: Is inside comment: 0.013023018836975098
+Info 60   [00:57:34.842] getCompletionData: Get previous token 1: 0.009157001972198486
+Info 61   [00:57:34.842] getCompletionData: Get previous token 2: 0.006704002618789673
+Info 62   [00:57:34.847] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 63   [00:57:34.847] getCompletionData: Semantic work: 4.652801990509033
+Info 64   [00:57:34.852] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.5736450254917145
+Info 65   [00:57:34.858] getCompletionData: Get current token: 0.0034689903259277344
+Info 66   [00:57:34.858] getCompletionData: Is inside comment: 0.030030012130737305
+Info 67   [00:57:34.858] getCompletionData: Get previous token 1: 0.026016980409622192
+Info 68   [00:57:34.858] getCompletionData: Get previous token 2: 0.006677001714706421
+Info 69   [00:57:34.860] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 70   [00:57:34.861] getCompletionData: Semantic work: 2.4177969992160797
+Info 71   [00:57:34.869] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 8.340062022209167
+Info 72   [00:57:34.874] getCompletionData: Get current token: 0.004337996244430542
+Info 73   [00:57:34.874] getCompletionData: Is inside comment: 0.013582020998001099
+Info 74   [00:57:34.874] getCompletionData: Get previous token 1: 0.008785992860794067
+Info 75   [00:57:34.874] getCompletionData: Get previous token 2: 0.007807999849319458
+Info 76   [00:57:34.876] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 77   [00:57:34.877] getCompletionData: Semantic work: 2.9037830233573914
+Info 78   [00:57:34.884] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.275507003068924
+Info 79   [00:57:34.887] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 80   [00:57:34.911] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 23.679417997598648ms
+Info 81   [00:57:34.911] Different program with same set of files:: structureIsReused:: 2
+Info 82   [00:57:34.918] getCompletionData: Get current token: 0.004122018814086914
+Info 83   [00:57:34.918] getCompletionData: Is inside comment: 0.030196011066436768
+Info 84   [00:57:34.918] getCompletionData: Get previous token 1: 0.008579999208450317
+Info 85   [00:57:34.918] getCompletionData: Get previous token 2: 0.0063609778881073
+Info 86   [00:57:34.922] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 87   [00:57:34.923] getCompletionData: Semantic work: 4.495793998241425
+Info 88   [00:57:34.929] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.392185986042023
+Info 89   [00:57:34.938] getCompletionData: Get current token: 0.0036250054836273193
+Info 90   [00:57:34.938] getCompletionData: Is inside comment: 0.012347012758255005
+Info 91   [00:57:34.938] getCompletionData: Get previous token 1: 0.008718997240066528
+Info 92   [00:57:34.938] getCompletionData: Get previous token 2: 0.00610700249671936
+Info 93   [00:57:34.940] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 94   [00:57:34.941] getCompletionData: Semantic work: 3.0250200033187866
+Info 95   [00:57:34.950] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 8.772765010595322
+Info 96   [00:57:34.954] getCompletionData: Get current token: 0.005331993103027344
+Info 97   [00:57:34.954] getCompletionData: Is inside comment: 0.015223026275634766
+Info 98   [00:57:34.954] getCompletionData: Get previous token 1: 0.010765999555587769
+Info 99   [00:57:34.954] getCompletionData: Get previous token 2: 0.009093999862670898
+Info 100  [00:57:34.956] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 101  [00:57:34.958] getCompletionData: Semantic work: 3.8489440083503723
+Info 102  [00:57:34.963] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 3.759790986776352
+Info 103  [00:57:34.966] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 104  [00:57:35.003] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 36.901367992162704ms
+Info 105  [00:57:35.003] Different program with same set of files:: structureIsReused:: 2
+Info 106  [00:57:35.004] getCompletionData: Get current token: 0.006716996431350708
+Info 107  [00:57:35.004] getCompletionData: Is inside comment: 0.02206599712371826
+Info 108  [00:57:35.004] getCompletionData: Get previous token 1: 0.016316980123519897
+Info 109  [00:57:35.005] getCompletionsAtPosition: isCompletionListBlocker: 0.36050400137901306
+Info 110  [00:57:35.009] getCompletionData: Semantic work: 4.2346580028533936
+Info 111  [00:57:35.010] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.3990029990673065
+Info 112  [00:57:35.011] getCompletionData: Get current token: 0.003793001174926758
+Info 113  [00:57:35.011] getCompletionData: Is inside comment: 0.015448004007339478
+Info 114  [00:57:35.011] getCompletionData: Get previous token 1: 0.011810988187789917
+Info 115  [00:57:35.011] getCompletionsAtPosition: isCompletionListBlocker: 0.005944997072219849
+Info 116  [00:57:35.011] getCompletionData: Semantic work: 0.13810297846794128
+Info 117  [00:57:35.011] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.06934401392936707
+Info 118  [00:57:35.012] getCompletionData: Get current token: 0.0036320090293884277
+Info 119  [00:57:35.012] getCompletionData: Is inside comment: 0.015275001525878906
+Info 120  [00:57:35.012] getCompletionData: Get previous token 1: 0.011682987213134766
+Info 121  [00:57:35.012] getCompletionsAtPosition: isCompletionListBlocker: 0.0022509992122650146
+Info 122  [00:57:35.012] getCompletionData: Semantic work: 0.0741879940032959
+Info 123  [00:57:35.012] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.06090998649597168
+Info 124  [00:57:35.012] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 125  [00:57:35.039] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 27.04026299715042ms
+Info 126  [00:57:35.039] Different program with same set of files:: structureIsReused:: 2
+Err 127   [00:57:35.144] Exception on executing command {"command":"getApplicableRefactors","seq":79,"type":"request","arguments":{"file":"/home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js","startLine":1,"startOffset":8,"endLine":1,"endOffset":8}}:
+
+    Debug Failure. Expected 7 <= 6
+
+    Error: Debug Failure. Expected 7 <= 6
+        at assertDiagnosticLocation (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:14250:22)
+        at Object.createFileDiagnostic (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:18741:9)
+        at getRangeToExtract (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:144359:42)
+        at Object.getAvailableActions (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:144158:38)
+        at /usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:135548:30
+        at getIterator (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:569:23)
+        at Object.next (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:564:35)
+        at Object.arrayFrom (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:1309:40)
+        at Object.getApplicableRefactors (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:135544:23)
+        at Object.getApplicableRefactors (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:149999:32)
+        at IOSession.Session.getApplicableRefactors (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160613:53)
+        at Session.handlers.ts.Map.ts.getEntries._a.(anonymous function) (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:159353:61)
         at /usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160963:88
         at IOSession.Session.executeWithRequestId (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160954:28)
         at IOSession.Session.executeCommand (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160963:33)
@@ -292,30 +199,461 @@ Err 223   [11:09:37.961] Exception on executing command {"command":"getCodeFixes
         at readableAddChunk (_stream_readable.js:269:11)
         at Socket.Readable.push (_stream_readable.js:224:10)
         at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
-Info 224  [11:09:38.122] getCompletionData: Get current token: 0.027278006076812744
-Info 225  [11:09:38.122] getCompletionData: Is inside comment: 0.011460989713668823
-Info 226  [11:09:38.123] getCompletionData: Get previous token 1: 0.0674700140953064
-Info 227  [11:09:38.123] getCompletionsAtPosition: isCompletionListBlocker: 0.2540220022201538
-Info 228  [11:09:38.133] getSymbolsFromOtherSourceFileExports: Recomputing list
-Info 229  [11:09:38.142] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
-Info 230  [11:09:38.168] getSymbolsFromOtherSourceFileExports: 34.39453700184822
-Info 231  [11:09:38.178] getCompletionData: Semantic work: 54.96448999643326
-Info 232  [11:09:38.208] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 28.801860004663467
-Info 233  [11:09:38.223] getCompletionData: Get current token: 0.013992011547088623
-Info 234  [11:09:38.223] getCompletionData: Is inside comment: 0.006283998489379883
-Info 235  [11:09:38.223] getCompletionData: Get previous token 1: 0.03877100348472595
-Info 236  [11:09:38.224] getCompletionsAtPosition: isCompletionListBlocker: 0.021849006414413452
-Info 237  [11:09:38.227] getSymbolsFromOtherSourceFileExports: Using cached list
-Info 238  [11:09:38.230] getCompletionData: Semantic work: 6.407716989517212
-Info 239  [11:09:38.245] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 14.774847000837326
-Info 240  [11:09:38.252] getCompletionData: Get current token: 0.016095012426376343
-Info 241  [11:09:38.252] getCompletionData: Is inside comment: 0.008149981498718262
-Info 242  [11:09:38.252] getCompletionData: Get previous token 1: 0.04499700665473938
-Info 243  [11:09:38.252] getCompletionsAtPosition: isCompletionListBlocker: 0.015716999769210815
-Info 244  [11:09:38.256] getSymbolsFromOtherSourceFileExports: Using cached list
-Info 245  [11:09:38.261] getCompletionData: Semantic work: 8.829668998718262
-Info 246  [11:09:38.272] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 10.819061011075974
-Info 247  [11:09:38.975] Format host information updated
-Info 248  [11:09:39.195] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 249  [11:09:39.210] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 65 structureChanged: false Elapsed: 14.46161100268364ms
-Info 250  [11:09:39.210] Different program with same set of files:: structureIsReused:: 2
+Err 128   [00:57:35.146] Exception on executing command {"command":"getApplicableRefactors","seq":80,"type":"request","arguments":{"file":"/home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js","startLine":1,"startOffset":8,"endLine":1,"endOffset":8}}:
+
+    Debug Failure. Expected 7 <= 6
+
+    Error: Debug Failure. Expected 7 <= 6
+        at assertDiagnosticLocation (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:14250:22)
+        at Object.createFileDiagnostic (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:18741:9)
+        at getRangeToExtract (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:144359:42)
+        at Object.getAvailableActions (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:144158:38)
+        at /usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:135548:30
+        at getIterator (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:569:23)
+        at Object.next (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:564:35)
+        at Object.arrayFrom (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:1309:40)
+        at Object.getApplicableRefactors (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:135544:23)
+        at Object.getApplicableRefactors (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:149999:32)
+        at IOSession.Session.getApplicableRefactors (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160613:53)
+        at Session.handlers.ts.Map.ts.getEntries._a.(anonymous function) (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:159353:61)
+        at /usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160963:88
+        at IOSession.Session.executeWithRequestId (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160954:28)
+        at IOSession.Session.executeCommand (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160963:33)
+        at IOSession.Session.onMessage (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:160989:35)
+        at Interface.<anonymous> (/usr/local/share/.config/yarn/global/node_modules/typescript/lib/tsserver.js:163650:31)
+        at Interface.emit (events.js:198:13)
+        at Interface._onLine (readline.js:308:10)
+        at Interface._normalWrite (readline.js:451:12)
+        at Socket.ondata (readline.js:165:10)
+        at Socket.emit (events.js:198:13)
+        at addChunk (_stream_readable.js:288:12)
+        at readableAddChunk (_stream_readable.js:269:11)
+        at Socket.Readable.push (_stream_readable.js:224:10)
+        at Pipe.onStreamRead [as onread] (internal/stream_base_commons.js:94:17)
+Info 129  [00:57:36.052] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents 0:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 130  [00:57:36.052] Elapsed:: 0.30109599232673645ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents 0:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 131  [00:57:36.052] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan 1:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 132  [00:57:36.053] Elapsed:: 0.08685299754142761ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan 1:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 133  [00:57:36.053] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings 2:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 134  [00:57:36.053] Elapsed:: 0.061801016330718994ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings 2:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 135  [00:57:36.053] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path 3:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 136  [00:57:36.053] Elapsed:: 0.058893024921417236ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path 3:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 137  [00:57:36.053] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents 4:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 138  [00:57:36.053] Elapsed:: 0.05754399299621582ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents 4:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 139  [00:57:36.053] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings 5:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 140  [00:57:36.053] Elapsed:: 0.07588401436805725ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings 5:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 141  [00:57:36.053] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path 6:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 142  [00:57:36.054] Elapsed:: 0.0605430006980896ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path 6:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 143  [00:57:36.054] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan 7:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 144  [00:57:36.054] Elapsed:: 0.05685698986053467ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan 7:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 145  [00:57:36.054] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents 8:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 146  [00:57:36.054] Elapsed:: 0.054847002029418945ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents 8:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 147  [00:57:36.054] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents 9:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 148  [00:57:36.054] Elapsed:: 0.05511501431465149ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents 9:: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 149  [00:57:40.029] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 150  [00:57:43.014] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: true Elapsed: 2984.006569981575ms
+Info 151  [00:57:43.014] Project '/dev/null/inferredProject1*' (Inferred)
+Info 152  [00:57:43.014] 	Files (1496)
+
+Info 153  [00:57:43.014] -----------------------------------------------
+Info 154  [00:57:43.014] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 155  [00:57:43.014] 	Files (11)
+
+Info 156  [00:57:43.014] -----------------------------------------------
+Info 157  [00:57:43.017] Before ensureProjectForOpenFiles:
+Info 158  [00:57:43.017] After ensureProjectForOpenFiles:
+Info 159  [00:57:43.018] got projects updated in background, updating diagnostics for /home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js
+Info 160  [00:57:43.018] FileWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 161  [00:57:43.018] Elapsed:: 0.18305400013923645ms FileWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 162  [00:57:43.119] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 163  [00:57:43.163] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 42.65633499622345ms
+Info 164  [00:57:43.580] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 165  [00:57:43.661] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 80.32082399725914ms
+Info 166  [00:57:43.661] Different program with same set of files:: structureIsReused:: 2
+Info 167  [00:57:43.922] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 168  [00:57:44.023] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 101.19866698980331ms
+Info 169  [00:57:44.023] Different program with same set of files:: structureIsReused:: 2
+Info 170  [00:57:44.048] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 171  [00:57:44.094] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 45.46902200579643ms
+Info 172  [00:57:44.094] Different program with same set of files:: structureIsReused:: 2
+Info 173  [00:57:44.786] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 174  [00:57:44.869] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 82.49889498949051ms
+Info 175  [00:57:44.869] Different program with same set of files:: structureIsReused:: 2
+Info 176  [00:57:44.871] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 177  [00:57:44.913] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 41.90934199094772ms
+Info 178  [00:57:44.913] Different program with same set of files:: structureIsReused:: 2
+Info 179  [00:57:45.518] Before ensureProjectForOpenFiles:
+Info 180  [00:57:45.519] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 181  [00:57:45.609] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 90.05351799726486ms
+Info 182  [00:57:45.609] Different program with same set of files:: structureIsReused:: 2
+Info 183  [00:57:45.609] After ensureProjectForOpenFiles:
+Info 184  [00:57:45.609] got projects updated in background, updating diagnostics for /home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js
+Info 185  [00:57:45.638] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 186  [00:57:45.681] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 43.310929000377655ms
+Info 187  [00:57:45.681] Different program with same set of files:: structureIsReused:: 2
+Info 188  [00:57:46.141] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 189  [00:57:46.190] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 48.92297801375389ms
+Info 190  [00:57:46.190] Different program with same set of files:: structureIsReused:: 2
+Info 191  [00:57:48.618] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 192  [00:57:48.706] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false Elapsed: 87.2407920062542ms
+Info 193  [00:57:48.706] Different program with same set of files:: structureIsReused:: 2
+Info 194  [00:57:48.709] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 195  [00:57:48.751] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false Elapsed: 42.830981999635696ms
+Info 196  [00:57:48.752] Different program with same set of files:: structureIsReused:: 2
+Info 197  [00:57:49.266] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 198  [00:57:49.367] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false Elapsed: 100.22125399112701ms
+Info 199  [00:57:49.367] Different program with same set of files:: structureIsReused:: 2
+Info 200  [00:57:49.566] getCompletionData: Get current token: 0.03609302639961243
+Info 201  [00:57:49.567] getCompletionData: Is inside comment: 0.16299700736999512
+Info 202  [00:57:49.568] getCompletionData: Get previous token 1: 0.1478310227394104
+Info 203  [00:57:49.568] getCompletionData: Get previous token 2: 0.14577701687812805
+Info 204  [00:57:49.569] getCompletionsAtPosition: isCompletionListBlocker: 0.02864399552345276
+Info 205  [00:57:49.571] getCompletionData: Semantic work: 1.8278930187225342
+Info 206  [00:57:49.572] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.10597500205039978
+Info 207  [00:57:49.817] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 208  [00:57:49.914] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false Elapsed: 96.00462999939919ms
+Info 209  [00:57:49.914] Different program with same set of files:: structureIsReused:: 2
+Info 210  [00:57:50.370] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 211  [00:57:50.463] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false Elapsed: 91.85605600476265ms
+Info 212  [00:57:50.463] Different program with same set of files:: structureIsReused:: 2
+Info 213  [00:57:51.182] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 214  [00:57:51.263] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false Elapsed: 80.50900501012802ms
+Info 215  [00:57:51.263] Different program with same set of files:: structureIsReused:: 2
+Info 216  [00:57:51.906] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 217  [00:57:51.987] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false Elapsed: 80.62919300794601ms
+Info 218  [00:57:51.987] Different program with same set of files:: structureIsReused:: 2
+Info 219  [00:57:52.207] getCompletionData: Get current token: 0.036679983139038086
+Info 220  [00:57:52.207] getCompletionData: Is inside comment: 0.1632940173149109
+Info 221  [00:57:52.208] getCompletionData: Get previous token 1: 0.14786499738693237
+Info 222  [00:57:52.209] getCompletionsAtPosition: isCompletionListBlocker: 0.540922999382019
+Info 223  [00:57:52.225] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 224  [00:57:52.345] forEachExternalModuleToImportFrom: filtered out 342 modules by package.json contents
+Info 225  [00:57:52.349] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 226  [00:57:52.355] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 2 structureChanged: true Elapsed: 6.005737990140915ms
+Info 227  [00:57:52.355] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 228  [00:57:52.355] 	Files (0)
+
+Info 229  [00:57:52.355] -----------------------------------------------
+Info 230  [00:57:52.356] getSymbolsFromOtherSourceFileExports: 130.908204972744
+Info 231  [00:57:52.362] getCompletionData: Semantic work: 152.05847400426865
+Info 232  [00:57:52.381] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 19.09036299586296
+Info 233  [00:58:07.604] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/.#vue.config.js :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 234  [00:58:07.607] Elapsed:: 2.2688779830932617ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/.#vue.config.js :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 235  [00:58:19.806] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 236  [00:58:19.806] Elapsed:: 0.3034209907054901ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 237  [00:58:23.069] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 238  [00:58:23.070] Elapsed:: 0.08200600743293762ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 239  [01:01:52.121] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router
+Info 240  [01:01:52.121] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 241  [01:02:33.713] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 242  [01:02:33.713] Elapsed:: 0.048353999853134155ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 243  [01:02:38.593] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 244  [01:02:38.594] Elapsed:: 0.04012799263000488ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 245  [08:10:39.287] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 246  [08:10:39.287] Elapsed:: 0.0813940167427063ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 247  [08:10:43.515] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 248  [08:10:43.515] Elapsed:: 0.11487698554992676ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 249  [08:56:07.621] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router
+Info 250  [08:56:07.622] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 251  [09:10:07.847] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 252  [09:10:07.866] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 2 structureChanged: false Elapsed: 18.94861799478531ms
+Info 253  [09:10:07.867] Different program with same set of files:: structureIsReused:: 2
+Info 254  [09:10:08.163] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 255  [09:10:08.203] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 3 structureChanged: false Elapsed: 39.627761006355286ms
+Info 256  [09:10:08.204] Different program with same set of files:: structureIsReused:: 2
+Info 257  [09:10:08.461] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 258  [09:10:08.473] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 4 structureChanged: false Elapsed: 11.23429399728775ms
+Info 259  [09:10:08.473] Different program with same set of files:: structureIsReused:: 2
+Info 260  [09:10:08.631] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 261  [09:10:08.639] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 5 structureChanged: false Elapsed: 8.082897007465363ms
+Info 262  [09:10:08.640] Different program with same set of files:: structureIsReused:: 2
+Info 263  [09:10:09.203] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 264  [09:10:09.229] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 6 structureChanged: false Elapsed: 25.015345990657806ms
+Info 265  [09:10:09.230] Different program with same set of files:: structureIsReused:: 2
+Info 266  [09:10:09.612] getCompletionData: Get current token: 0.015404999256134033
+Info 267  [09:10:09.612] getCompletionData: Is inside comment: 0.09455698728561401
+Info 268  [09:10:09.612] getCompletionData: Get previous token 1: 0.05834001302719116
+Info 269  [09:10:09.612] getCompletionData: Get previous token 2: 0.07518202066421509
+Info 270  [09:10:09.613] getCompletionsAtPosition: isCompletionListBlocker: 0.16999998688697815
+Info 271  [09:10:09.614] getCompletionData: Semantic work: 1.2292460203170776
+Info 272  [09:10:09.622] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 5.167135000228882
+Info 273  [09:10:10.126] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 274  [09:10:10.162] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 7 structureChanged: false Elapsed: 36.11296200752258ms
+Info 275  [09:10:10.163] Different program with same set of files:: structureIsReused:: 2
+Info 276  [09:10:10.385] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 277  [09:10:10.391] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 8 structureChanged: false Elapsed: 6.200051993131638ms
+Info 278  [09:10:10.391] Different program with same set of files:: structureIsReused:: 2
+Info 279  [09:10:10.665] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 280  [09:10:10.695] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 9 structureChanged: false Elapsed: 29.7547749876976ms
+Info 281  [09:10:10.695] Different program with same set of files:: structureIsReused:: 2
+Info 282  [09:10:11.045] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 283  [09:10:11.056] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 10 structureChanged: false Elapsed: 10.884499996900558ms
+Info 284  [09:10:11.059] Different program with same set of files:: structureIsReused:: 2
+Info 285  [09:10:11.060] getCompletionData: Get current token: 0.04745602607727051
+Info 286  [09:10:11.060] getCompletionData: Is inside comment: 0.033636003732681274
+Info 287  [09:10:11.060] getCompletionData: Get previous token 1: 0.07535800337791443
+Info 288  [09:10:11.060] getCompletionData: Get previous token 2: 0.03971901535987854
+Info 289  [09:10:11.060] getCompletionsAtPosition: isCompletionListBlocker: 0.015742003917694092
+Info 290  [09:10:11.061] getCompletionData: Semantic work: 0.18465900421142578
+Info 291  [09:10:11.072] getCompletionData: Get current token: 0.03545099496841431
+Info 292  [09:10:11.072] getCompletionData: Is inside comment: 0.010048002004623413
+Info 293  [09:10:11.072] getCompletionData: Get previous token 1: 0.043338000774383545
+Info 294  [09:10:11.072] getCompletionData: Get previous token 2: 0.03418999910354614
+Info 295  [09:10:11.073] getCompletionsAtPosition: isCompletionListBlocker: 0.010976016521453857
+Info 296  [09:10:11.073] getCompletionData: Semantic work: 0.16599100828170776
+Info 297  [09:10:13.390] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 298  [09:10:13.414] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 11 structureChanged: false Elapsed: 22.722179025411606ms
+Info 299  [09:10:13.414] Different program with same set of files:: structureIsReused:: 2
+Info 300  [09:10:13.984] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 301  [09:10:14.001] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 12 structureChanged: false Elapsed: 16.93862098455429ms
+Info 302  [09:10:14.001] Different program with same set of files:: structureIsReused:: 2
+Info 303  [09:10:15.251] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 304  [09:10:15.261] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 13 structureChanged: false Elapsed: 9.230506002902985ms
+Info 305  [09:10:15.261] Different program with same set of files:: structureIsReused:: 2
+Info 306  [09:10:15.640] getCompletionData: Get current token: 0.02779102325439453
+Info 307  [09:10:15.641] getCompletionData: Is inside comment: 0.12014898657798767
+Info 308  [09:10:15.641] getCompletionData: Get previous token 1: 0.09607300162315369
+Info 309  [09:10:15.641] getCompletionData: Get previous token 2: 0.07576102018356323
+Info 310  [09:10:15.641] getCompletionsAtPosition: isCompletionListBlocker: 0.01645597815513611
+Info 311  [09:10:15.646] getCompletionData: Semantic work: 4.894077003002167
+Info 312  [09:10:15.647] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.5148259997367859
+Info 313  [09:10:16.022] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 314  [09:10:16.052] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 14 structureChanged: false Elapsed: 29.416395008563995ms
+Info 315  [09:10:16.052] Different program with same set of files:: structureIsReused:: 2
+Info 316  [09:10:16.053] getCompletionData: Get current token: 0.053447991609573364
+Info 317  [09:10:16.053] getCompletionData: Is inside comment: 0.022225022315979004
+Info 318  [09:10:16.053] getCompletionData: Get previous token 1: 0.12483599781990051
+Info 319  [09:10:16.054] getCompletionData: Get previous token 2: 0.0649150013923645
+Info 320  [09:10:16.056] getCompletionsAtPosition: isCompletionListBlocker: 0.01732000708580017
+Info 321  [09:10:16.058] getCompletionData: Semantic work: 2.4029430150985718
+Info 322  [09:10:16.072] getCompletionData: Get current token: 0.06244999170303345
+Info 323  [09:10:16.072] getCompletionData: Is inside comment: 0.03893399238586426
+Info 324  [09:10:16.072] getCompletionData: Get previous token 1: 0.07890400290489197
+Info 325  [09:10:16.072] getCompletionData: Get previous token 2: 0.04370301961898804
+Info 326  [09:10:16.073] getCompletionsAtPosition: isCompletionListBlocker: 0.013911008834838867
+Info 327  [09:10:16.073] getCompletionData: Semantic work: 0.7055800259113312
+Info 328  [09:10:16.720] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 329  [09:10:16.753] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 15 structureChanged: false Elapsed: 32.14411598443985ms
+Info 330  [09:10:16.753] Different program with same set of files:: structureIsReused:: 2
+Info 331  [09:10:16.899] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 332  [09:10:16.908] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 16 structureChanged: false Elapsed: 9.616917997598648ms
+Info 333  [09:10:16.909] Different program with same set of files:: structureIsReused:: 2
+Info 334  [09:10:17.147] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 335  [09:10:17.157] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 17 structureChanged: false Elapsed: 9.831373989582062ms
+Info 336  [09:10:17.157] Different program with same set of files:: structureIsReused:: 2
+Info 337  [09:10:17.379] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 338  [09:10:17.386] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 18 structureChanged: false Elapsed: 6.809521019458771ms
+Info 339  [09:10:17.387] Different program with same set of files:: structureIsReused:: 2
+Info 340  [09:10:17.856] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 341  [09:10:17.875] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 342  [09:10:17.888] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 19 structureChanged: false Elapsed: 12.224157005548477ms
+Info 343  [09:10:17.888] Different program with same set of files:: structureIsReused:: 2
+Info 344  [09:10:18.692] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 345  [09:10:18.716] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 20 structureChanged: false Elapsed: 23.482675999403ms
+Info 346  [09:10:18.717] Different program with same set of files:: structureIsReused:: 2
+Info 347  [09:10:18.965] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 348  [09:10:18.993] getCompletionData: Get current token: 0.04252201318740845
+Info 349  [09:10:18.994] getCompletionData: Is inside comment: 0.18369099497795105
+Info 350  [09:10:18.994] getCompletionData: Get previous token 1: 0.0993340015411377
+Info 351  [09:10:18.994] getCompletionData: Get previous token 2: 0.21012499928474426
+Info 352  [09:10:18.995] getCompletionsAtPosition: isCompletionListBlocker: 0.011320024728775024
+Info 353  [09:10:19.006] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 354  [09:10:19.010] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 355  [09:10:19.019] getSymbolsFromOtherSourceFileExports: 13.114219009876251
+Info 356  [09:10:19.027] getCompletionData: Semantic work: 32.234851002693176
+Info 357  [09:10:19.063] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 32.483823001384735
+Info 358  [09:10:19.080] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 359  [09:10:19.090] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 360  [09:10:19.396] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 361  [09:10:19.416] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 21 structureChanged: false Elapsed: 18.588847994804382ms
+Info 362  [09:10:19.416] Different program with same set of files:: structureIsReused:: 2
+Info 363  [09:10:19.647] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 364  [09:10:19.663] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 22 structureChanged: false Elapsed: 15.22639399766922ms
+Info 365  [09:10:19.664] Different program with same set of files:: structureIsReused:: 2
+Info 366  [09:10:19.944] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 367  [09:10:19.971] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 23 structureChanged: false Elapsed: 25.96799799799919ms
+Info 368  [09:10:19.971] Different program with same set of files:: structureIsReused:: 2
+Info 369  [09:10:20.576] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 370  [09:10:20.591] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 24 structureChanged: false Elapsed: 13.931437999010086ms
+Info 371  [09:10:20.591] Different program with same set of files:: structureIsReused:: 2
+Info 372  [09:10:20.592] getCompletionData: Get current token: 0.06848597526550293
+Info 373  [09:10:20.592] getCompletionData: Is inside comment: 0.019704997539520264
+Info 374  [09:10:20.592] getCompletionData: Get previous token 1: 0.09241199493408203
+Info 375  [09:10:20.592] getCompletionData: Get previous token 2: 0.06666898727416992
+Info 376  [09:10:20.593] getCompletionsAtPosition: isCompletionListBlocker: 0.008803993463516235
+Info 377  [09:10:20.604] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 378  [09:10:20.620] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 379  [09:10:20.637] getSymbolsFromOtherSourceFileExports: 33.18208900094032
+Info 380  [09:10:20.649] getCompletionData: Semantic work: 56.544268012046814
+Info 381  [09:10:20.654] getCompletionData: Get current token: 0.027897000312805176
+Info 382  [09:10:20.655] getCompletionData: Is inside comment: 0.022332996129989624
+Info 383  [09:10:20.655] getCompletionData: Get previous token 1: 0.07344797253608704
+Info 384  [09:10:20.656] getCompletionData: Get previous token 2: 0.06923902034759521
+Info 385  [09:10:20.656] getCompletionsAtPosition: isCompletionListBlocker: 0.008644014596939087
+Info 386  [09:10:20.662] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 387  [09:10:20.669] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 388  [09:10:20.675] getSymbolsFromOtherSourceFileExports: 13.071853995323181
+Info 389  [09:10:20.684] getCompletionData: Semantic work: 27.87050899863243
+Info 390  [09:10:21.067] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 391  [09:10:21.120] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 392  [09:10:21.515] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 393  [09:10:21.532] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 25 structureChanged: false Elapsed: 16.35052400827408ms
+Info 394  [09:10:21.532] Different program with same set of files:: structureIsReused:: 2
+Info 395  [09:10:22.178] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 396  [09:10:22.196] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 26 structureChanged: false Elapsed: 17.26165097951889ms
+Info 397  [09:10:22.196] Different program with same set of files:: structureIsReused:: 2
+Info 398  [09:10:22.426] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 399  [09:10:22.435] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 27 structureChanged: false Elapsed: 8.91330099105835ms
+Info 400  [09:10:22.436] Different program with same set of files:: structureIsReused:: 2
+Info 401  [09:10:22.791] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 402  [09:10:22.800] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 28 structureChanged: false Elapsed: 8.585268020629883ms
+Info 403  [09:10:22.800] Different program with same set of files:: structureIsReused:: 2
+Info 404  [09:10:23.238] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 405  [09:10:23.245] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 29 structureChanged: false Elapsed: 6.36192399263382ms
+Info 406  [09:10:23.245] Different program with same set of files:: structureIsReused:: 2
+Info 407  [09:10:23.252] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 408  [09:10:23.257] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 30 structureChanged: false Elapsed: 5.523179978132248ms
+Info 409  [09:10:23.257] Different program with same set of files:: structureIsReused:: 2
+Info 410  [09:10:23.533] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 411  [09:10:23.555] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 31 structureChanged: false Elapsed: 21.577982991933823ms
+Info 412  [09:10:23.555] Different program with same set of files:: structureIsReused:: 2
+Info 413  [09:10:23.982] getCompletionData: Get current token: 0.029008984565734863
+Info 414  [09:10:23.982] getCompletionData: Is inside comment: 0.022287994623184204
+Info 415  [09:10:23.983] getCompletionData: Get previous token 1: 0.11915197968482971
+Info 416  [09:10:23.983] getCompletionData: Get previous token 2: 0.11018899083137512
+Info 417  [09:10:23.983] getCompletionsAtPosition: isCompletionListBlocker: 0.02148902416229248
+Info 418  [09:10:23.991] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 419  [09:10:23.997] getCompletionData: Semantic work: 12.918758988380432
+Info 420  [09:10:24.020] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 23.157480001449585
+Info 421  [09:10:24.814] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 422  [09:10:24.823] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 32 structureChanged: false Elapsed: 8.517178982496262ms
+Info 423  [09:10:24.823] Different program with same set of files:: structureIsReused:: 2
+Info 424  [09:10:24.824] getCompletionData: Get current token: 0.06279498338699341
+Info 425  [09:10:24.824] getCompletionData: Is inside comment: 0.016997992992401123
+Info 426  [09:10:24.825] getCompletionData: Get previous token 1: 0.08889901638031006
+Info 427  [09:10:24.825] getCompletionData: Get previous token 2: 0.07380202412605286
+Info 428  [09:10:24.825] getCompletionsAtPosition: isCompletionListBlocker: 0.02246701717376709
+Info 429  [09:10:24.835] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 430  [09:10:24.856] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 431  [09:10:24.865] getSymbolsFromOtherSourceFileExports: 30.281471997499466
+Info 432  [09:10:24.883] getCompletionData: Semantic work: 57.620799005031586
+Info 433  [09:10:24.894] getCompletionData: Get current token: 0.05204099416732788
+Info 434  [09:10:24.894] getCompletionData: Is inside comment: 0.052170008420944214
+Info 435  [09:10:24.895] getCompletionData: Get previous token 1: 0.12848800420761108
+Info 436  [09:10:24.895] getCompletionData: Get previous token 2: 0.07496300339698792
+Info 437  [09:10:24.895] getCompletionsAtPosition: isCompletionListBlocker: 0.008657991886138916
+Info 438  [09:10:24.902] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 439  [09:10:24.913] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 440  [09:10:24.921] getSymbolsFromOtherSourceFileExports: 18.25977298617363
+Info 441  [09:10:24.923] getCompletionData: Semantic work: 28.18121501803398
+Info 442  [09:10:25.304] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 443  [09:10:25.314] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 33 structureChanged: false Elapsed: 6.772258996963501ms
+Info 444  [09:10:25.315] Different program with same set of files:: structureIsReused:: 2
+Info 445  [09:10:25.608] getCompletionData: Get current token: 0.022681981325149536
+Info 446  [09:10:25.608] getCompletionData: Is inside comment: 0.026308000087738037
+Info 447  [09:10:25.609] getCompletionData: Get previous token 1: 0.0802609920501709
+Info 448  [09:10:25.609] getCompletionsAtPosition: isCompletionListBlocker: 0.0074340105056762695
+Info 449  [09:10:25.611] getCompletionData: Semantic work: 2.0449890196323395
+Info 450  [09:10:25.615] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.13100701570510864
+Info 451  [09:10:25.696] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 452  [09:10:25.710] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 34 structureChanged: false Elapsed: 13.686156004667282ms
+Info 453  [09:10:25.710] Different program with same set of files:: structureIsReused:: 2
+Info 454  [09:10:26.128] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 455  [09:10:26.135] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 35 structureChanged: false Elapsed: 5.914867013692856ms
+Info 456  [09:10:26.135] Different program with same set of files:: structureIsReused:: 2
+Info 457  [09:10:26.465] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 458  [09:10:26.475] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 36 structureChanged: false Elapsed: 9.874651998281479ms
+Info 459  [09:10:26.475] Different program with same set of files:: structureIsReused:: 2
+Info 460  [09:10:26.476] getCompletionData: Get current token: 0.06703299283981323
+Info 461  [09:10:26.476] getCompletionData: Is inside comment: 0.024150997400283813
+Info 462  [09:10:26.476] getCompletionData: Get previous token 1: 0.10418599843978882
+Info 463  [09:10:26.476] getCompletionsAtPosition: isCompletionListBlocker: 0.007587999105453491
+Info 464  [09:10:26.479] getCompletionData: Semantic work: 2.868465006351471
+Info 465  [09:10:26.493] getCompletionData: Get current token: 0.05972200632095337
+Info 466  [09:10:26.493] getCompletionData: Is inside comment: 0.023120999336242676
+Info 467  [09:10:26.493] getCompletionData: Get previous token 1: 0.09033700823783875
+Info 468  [09:10:26.494] getCompletionsAtPosition: isCompletionListBlocker: 0.01116800308227539
+Info 469  [09:10:26.495] getCompletionData: Semantic work: 0.6838530004024506
+Info 470  [09:10:26.779] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 471  [09:10:26.786] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 37 structureChanged: false Elapsed: 6.812745004892349ms
+Info 472  [09:10:26.787] Different program with same set of files:: structureIsReused:: 2
+Info 473  [09:10:27.279] getCompletionData: Get current token: 0.02207699418067932
+Info 474  [09:10:27.279] getCompletionData: Is inside comment: 0.026735007762908936
+Info 475  [09:10:27.279] getCompletionData: Get previous token 1: 0.13294100761413574
+Info 476  [09:10:27.280] getCompletionsAtPosition: isCompletionListBlocker: 0.009683996438980103
+Info 477  [09:10:27.281] getCompletionData: Semantic work: 1.400598019361496
+Info 478  [09:10:27.382] getCompletionData: Get current token: 0.018745988607406616
+Info 479  [09:10:27.382] getCompletionData: Is inside comment: 0.008106023073196411
+Info 480  [09:10:27.382] getCompletionData: Get previous token 1: 0.06420698761940002
+Info 481  [09:10:27.382] getCompletionsAtPosition: isCompletionListBlocker: 0.006182998418807983
+Info 482  [09:10:27.383] getCompletionData: Semantic work: 0.45541900396347046
+Info 483  [09:10:27.388] getCompletionData: Get current token: 0.027821987867355347
+Info 484  [09:10:27.388] getCompletionData: Is inside comment: 0.026122987270355225
+Info 485  [09:10:27.389] getCompletionData: Get previous token 1: 0.09514698386192322
+Info 486  [09:10:27.389] getCompletionsAtPosition: isCompletionListBlocker: 0.007874995470046997
+Info 487  [09:10:27.390] getCompletionData: Semantic work: 0.6287359893321991
+Info 488  [09:10:27.801] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 489  [09:10:27.806] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 38 structureChanged: false Elapsed: 5.062469005584717ms
+Info 490  [09:10:27.806] Different program with same set of files:: structureIsReused:: 2
+Info 491  [09:10:28.243] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 492  [09:10:28.251] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 39 structureChanged: false Elapsed: 7.5354839861392975ms
+Info 493  [09:10:28.251] Different program with same set of files:: structureIsReused:: 2
+Info 494  [09:10:28.428] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 495  [09:10:28.440] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 40 structureChanged: false Elapsed: 12.019057989120483ms
+Info 496  [09:10:28.440] Different program with same set of files:: structureIsReused:: 2
+Info 497  [09:10:28.876] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 498  [09:10:28.887] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 41 structureChanged: false Elapsed: 11.079773008823395ms
+Info 499  [09:10:28.888] Different program with same set of files:: structureIsReused:: 2
+Info 500  [09:10:29.026] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 501  [09:10:29.043] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 42 structureChanged: false Elapsed: 17.01926100254059ms
+Info 502  [09:10:29.044] Different program with same set of files:: structureIsReused:: 2
+Info 503  [09:10:29.207] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 504  [09:10:29.225] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 43 structureChanged: false Elapsed: 17.262594997882843ms
+Info 505  [09:10:29.226] Different program with same set of files:: structureIsReused:: 2
+Info 506  [09:10:29.472] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 507  [09:10:29.476] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 44 structureChanged: false Elapsed: 4.716054022312164ms
+Info 508  [09:10:29.477] Different program with same set of files:: structureIsReused:: 2
+Info 509  [09:10:29.780] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 510  [09:10:29.790] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 45 structureChanged: false Elapsed: 10.177372992038727ms
+Info 511  [09:10:29.791] Different program with same set of files:: structureIsReused:: 2
+Info 512  [09:10:30.097] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 513  [09:10:30.104] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 46 structureChanged: false Elapsed: 6.63934001326561ms
+Info 514  [09:10:30.104] Different program with same set of files:: structureIsReused:: 2
+Info 515  [09:10:30.341] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 516  [09:10:30.367] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 47 structureChanged: false Elapsed: 25.822205990552902ms
+Info 517  [09:10:30.367] Different program with same set of files:: structureIsReused:: 2
+Info 518  [09:10:30.872] getCompletionData: Get current token: 0.01524999737739563
+Info 519  [09:10:30.873] getCompletionData: Is inside comment: 0.013707995414733887
+Info 520  [09:10:30.873] getCompletionData: Get previous token 1: 0.11886399984359741
+Info 521  [09:10:30.874] getCompletionData: Get previous token 2: 0.19378197193145752
+Info 522  [09:10:30.874] getCompletionsAtPosition: isCompletionListBlocker: 0.00849100947380066
+Info 523  [09:10:30.879] getCompletionData: Semantic work: 4.807791978120804
+Info 524  [09:10:30.885] getCompletionData: Get current token: 0.013556987047195435
+Info 525  [09:10:30.885] getCompletionData: Is inside comment: 0.013419002294540405
+Info 526  [09:10:30.885] getCompletionData: Get previous token 1: 0.08679798245429993
+Info 527  [09:10:30.885] getCompletionData: Get previous token 2: 0.12499898672103882
+Info 528  [09:10:30.886] getCompletionsAtPosition: isCompletionListBlocker: 0.03246498107910156
+Info 529  [09:10:30.888] getCompletionData: Semantic work: 1.0763500034809113
+Info 530  [09:10:30.895] getCompletionData: Get current token: 0.02456602454185486
+Info 531  [09:10:30.895] getCompletionData: Is inside comment: 0.013920992612838745
+Info 532  [09:10:30.896] getCompletionData: Get previous token 1: 0.059112995862960815
+Info 533  [09:10:30.896] getCompletionData: Get previous token 2: 0.04578101634979248
+Info 534  [09:10:30.896] getCompletionsAtPosition: isCompletionListBlocker: 0.007111012935638428
+Info 535  [09:10:30.897] getCompletionData: Semantic work: 0.5056659877300262
+Info 536  [09:10:31.395] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 537  [09:10:31.402] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 48 structureChanged: false Elapsed: 6.499765008687973ms
+Info 538  [09:10:31.402] Different program with same set of files:: structureIsReused:: 2
+Info 539  [09:10:32.274] Format host information updated
+Info 540  [09:10:32.303] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 541  [09:10:32.319] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 49 structureChanged: false Elapsed: 15.020055025815964ms
+Info 542  [09:10:32.319] Different program with same set of files:: structureIsReused:: 2
+Info 543  [09:10:42.214] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 544  [09:10:42.214] Elapsed:: 0.09699401259422302ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 545  [09:10:48.423] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 546  [09:10:48.423] Elapsed:: 0.046191006898880005ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 547  [09:11:49.697] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 548  [09:11:49.709] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 50 structureChanged: false Elapsed: 11.583098024129868ms
+Info 549  [09:11:49.709] Different program with same set of files:: structureIsReused:: 2
+Info 550  [09:11:50.102] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 551  [09:11:50.114] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 51 structureChanged: false Elapsed: 12.014128983020782ms
+Info 552  [09:11:50.114] Different program with same set of files:: structureIsReused:: 2
