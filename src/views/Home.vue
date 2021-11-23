@@ -5,6 +5,7 @@
     <router-link to="/jswork">JS Work</router-link> <br>
     <router-link to="/jswork2">JS work2</router-link> <br>
     <router-link to="/vuework">Vue Work</router-link> <br>
+    <router-link to="/vuework2">Vue Work2</router-link> <br>
   </div>
 </template>
 

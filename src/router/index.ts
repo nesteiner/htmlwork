@@ -40,7 +40,13 @@ const routes: Array<RouteRecordRaw> = [
 		path: '/vuework',
 		name: 'vuework',
 		component: () => import('@/views/vuework.vue')
+	},
+	{
+		path: '/vuework2',
+		name: 'vuework2',
+		component: () => import('@/views/vuework2.vue')
 	}
+
 ]
 
 const router = createRouter({

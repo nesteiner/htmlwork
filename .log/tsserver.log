@@ -657,3 +657,1028 @@ Info 549  [09:11:49.709] Different program with same set of files:: structureIsR
 Info 550  [09:11:50.102] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
 Info 551  [09:11:50.114] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 51 structureChanged: false Elapsed: 12.014128983020782ms
 Info 552  [09:11:50.114] Different program with same set of files:: structureIsReused:: 2
+Info 553  [20:35:59.207] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/types-registry :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 554  [20:35:59.209] Elapsed:: 0.6866540014743805ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/types-registry :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 555  [20:35:59.209] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/types-registry :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 556  [20:35:59.209] Elapsed:: 0.08695900440216064ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/types-registry :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 557  [20:36:00.305] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 558  [20:36:00.323] Elapsed:: 16.868411004543304ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 559  [20:36:00.323] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 560  [20:36:00.323] Elapsed:: 0.058250993490219116ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 561  [20:36:00.323] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/types-registry 0:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 562  [20:36:00.323] Elapsed:: 0.04347899556159973ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/types-registry 0:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 563  [20:36:00.323] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/bindings 1:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 564  [20:36:00.324] Elapsed:: 0.02590501308441162ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/bindings 1:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 565  [20:36:00.324] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/nan 2:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 566  [20:36:00.324] Elapsed:: 0.0208590030670166ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/nan 2:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 567  [20:36:00.324] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/types-registry 3:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 568  [20:36:00.324] Elapsed:: 0.020058006048202515ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/types-registry 3:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 569  [20:36:00.324] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/fsevents 4:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 570  [20:36:00.324] Elapsed:: 0.019939005374908447ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/fsevents 4:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 571  [20:36:00.324] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/file-uri-to-path 5:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 572  [20:36:00.324] Elapsed:: 0.02002200484275818ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/file-uri-to-path 5:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 573  [20:36:01.609] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 574  [20:36:02.651] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: true Elapsed: 1041.8782079815865ms
+Info 575  [20:36:02.652] Project '/dev/null/inferredProject1*' (Inferred)
+Info 576  [20:36:02.652] 	Files (1484)
+
+Info 577  [20:36:02.652] -----------------------------------------------
+Info 578  [20:36:02.655] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 579  [20:36:02.655] Elapsed:: 0.5650300085544586ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 580  [20:36:02.656] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 581  [20:36:02.656] Elapsed:: 0.039530009031295776ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 582  [20:36:02.656] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 583  [20:36:02.656] Elapsed:: 0.5752599835395813ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 584  [20:36:02.657] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 585  [20:36:02.657] Elapsed:: 0.037134021520614624ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/@types/webpack-dev-server/node_modules/fsevents :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 586  [20:36:02.657] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 587  [20:36:02.657] Elapsed:: 0.020250022411346436ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 588  [20:36:02.657] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 589  [20:36:02.657] Elapsed:: 0.018994003534317017ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 590  [20:36:02.657] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 591  [20:36:02.657] Elapsed:: 0.0153999924659729ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 592  [20:36:02.657] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 593  [20:36:02.657] Elapsed:: 0.015340983867645264ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 594  [20:36:02.657] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/bindings.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 595  [20:36:02.657] Elapsed:: 0.01539701223373413ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/bindings.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 596  [20:36:02.658] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/bindings.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 597  [20:36:02.658] Elapsed:: 0.17108199000358582ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/bindings.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 598  [20:36:02.658] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 599  [20:36:02.658] Elapsed:: 0.015226006507873535ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 600  [20:36:02.658] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 601  [20:36:02.658] Elapsed:: 0.041936010122299194ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 602  [20:36:02.658] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.npmignore :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 603  [20:36:02.658] Elapsed:: 0.014649003744125366ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.npmignore :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 604  [20:36:02.658] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.npmignore :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 605  [20:36:02.658] Elapsed:: 0.014794975519180298ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.npmignore :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 606  [20:36:02.658] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.travis.yml :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 607  [20:36:02.658] Elapsed:: 0.015819013118743896ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.travis.yml :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 608  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.travis.yml :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 609  [20:36:02.659] Elapsed:: 0.015412986278533936ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/.travis.yml :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 610  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/History.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 611  [20:36:02.659] Elapsed:: 0.014663994312286377ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/History.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 612  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/History.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 613  [20:36:02.659] Elapsed:: 0.013262003660202026ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/History.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 614  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/LICENSE :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 615  [20:36:02.659] Elapsed:: 0.3069399893283844ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/LICENSE :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 616  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/LICENSE :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 617  [20:36:02.659] Elapsed:: 0.015323013067245483ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/LICENSE :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 618  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 619  [20:36:02.659] Elapsed:: 0.013144999742507935ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 620  [20:36:02.659] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 621  [20:36:02.660] Elapsed:: 0.012344002723693848ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 622  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.d.ts :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 623  [20:36:02.660] Elapsed:: 0.011864989995956421ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.d.ts :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 624  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.d.ts :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 625  [20:36:02.660] Elapsed:: 0.033093005418777466ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.d.ts :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 626  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 627  [20:36:02.660] Elapsed:: 0.012127995491027832ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 628  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 629  [20:36:02.660] Elapsed:: 0.025830000638961792ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/index.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 630  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 631  [20:36:02.660] Elapsed:: 0.011480003595352173ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 632  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 633  [20:36:02.660] Elapsed:: 0.02402600646018982ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 634  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/CHANGELOG.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 635  [20:36:02.660] Elapsed:: 0.02115797996520996ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/CHANGELOG.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 636  [20:36:02.660] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/CHANGELOG.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 637  [20:36:02.660] Elapsed:: 0.016817986965179443ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/CHANGELOG.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 638  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 639  [20:36:02.661] Elapsed:: 0.01393800973892212ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 640  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 641  [20:36:02.661] Elapsed:: 0.013384014368057251ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/LICENSE.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 642  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 643  [20:36:02.661] Elapsed:: 0.011534005403518677ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 644  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 645  [20:36:02.661] Elapsed:: 0.021753013134002686ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/README.md :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 646  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/include_dirs.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 647  [20:36:02.661] Elapsed:: 0.025332987308502197ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/include_dirs.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 648  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/include_dirs.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 649  [20:36:02.661] Elapsed:: 0.06049200892448425ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/include_dirs.js :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 650  [20:36:02.661] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 651  [20:36:02.661] Elapsed:: 0.017839014530181885ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 652  [20:36:02.662] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 653  [20:36:02.662] Elapsed:: 0.01993301510810852ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 654  [20:36:02.662] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 655  [20:36:02.662] Elapsed:: 0.021000981330871582ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 656  [20:36:02.662] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 657  [20:36:02.662] Elapsed:: 0.02152097225189209ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 658  [20:36:02.662] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 659  [20:36:02.662] Elapsed:: 0.021114975214004517ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 660  [20:36:02.662] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 661  [20:36:02.662] Elapsed:: 0.05544900894165039ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 662  [20:36:02.662] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 663  [20:36:02.663] Elapsed:: 0.021782994270324707ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 664  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 665  [20:36:02.663] Elapsed:: 0.02181798219680786ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_callbacks_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 666  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 667  [20:36:02.663] Elapsed:: 0.01635301113128662ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 668  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 669  [20:36:02.663] Elapsed:: 0.014082998037338257ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 670  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 671  [20:36:02.663] Elapsed:: 0.014213979244232178ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 672  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 673  [20:36:02.663] Elapsed:: 0.021642982959747314ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 674  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 675  [20:36:02.663] Elapsed:: 0.013125002384185791ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 676  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 677  [20:36:02.663] Elapsed:: 0.012253016233444214ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_converters_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 678  [20:36:02.663] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_define_own_property_helper.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 679  [20:36:02.664] Elapsed:: 0.011830002069473267ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_define_own_property_helper.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 680  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_define_own_property_helper.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 681  [20:36:02.664] Elapsed:: 0.012013018131256104ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_define_own_property_helper.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 682  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 683  [20:36:02.664] Elapsed:: 0.011982977390289307ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 684  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 685  [20:36:02.664] Elapsed:: 0.010682016611099243ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 686  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 687  [20:36:02.664] Elapsed:: 0.011202991008758545ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 688  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 689  [20:36:02.664] Elapsed:: 0.01086801290512085ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_implementation_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 690  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_json.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 691  [20:36:02.664] Elapsed:: 0.01137000322341919ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_json.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 692  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_json.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 693  [20:36:02.664] Elapsed:: 0.010683000087738037ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_json.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 694  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 695  [20:36:02.664] Elapsed:: 0.010946989059448242ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 696  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 697  [20:36:02.664] Elapsed:: 0.010940998792648315ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 698  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 699  [20:36:02.664] Elapsed:: 0.01157599687576294ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 700  [20:36:02.664] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 701  [20:36:02.664] Elapsed:: 0.010519981384277344ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_maybe_pre_43_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 702  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_new.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 703  [20:36:02.665] Elapsed:: 0.010824978351593018ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_new.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 704  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_new.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 705  [20:36:02.665] Elapsed:: 0.011819005012512207ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_new.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 706  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_object_wrap.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 707  [20:36:02.665] Elapsed:: 0.0188559889793396ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_object_wrap.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 708  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_object_wrap.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 709  [20:36:02.665] Elapsed:: 0.013653010129928589ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_object_wrap.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 710  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 711  [20:36:02.665] Elapsed:: 0.011881977319717407ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 712  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 713  [20:36:02.665] Elapsed:: 0.011803984642028809ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 714  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_private.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 715  [20:36:02.665] Elapsed:: 0.010969012975692749ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_private.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 716  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_private.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 717  [20:36:02.665] Elapsed:: 0.010882019996643066ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_private.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 718  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 719  [20:36:02.665] Elapsed:: 0.010940015316009521ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 720  [20:36:02.665] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 721  [20:36:02.665] Elapsed:: 0.0117110013961792ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_persistent_pre_12_inl.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 722  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_string_bytes.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 723  [20:36:02.666] Elapsed:: 0.011171996593475342ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_string_bytes.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 724  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_string_bytes.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 725  [20:36:02.666] Elapsed:: 0.010796010494232178ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_string_bytes.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 726  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_typedarray_contents.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 727  [20:36:02.666] Elapsed:: 0.010661989450454712ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_typedarray_contents.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 728  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_typedarray_contents.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 729  [20:36:02.666] Elapsed:: 0.010774016380310059ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_typedarray_contents.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 730  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_weak.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 731  [20:36:02.666] Elapsed:: 0.011326998472213745ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_weak.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 732  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_weak.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 733  [20:36:02.666] Elapsed:: 0.010869979858398438ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/nan_weak.h :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 734  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 735  [20:36:02.666] Elapsed:: 0.010912001132965088ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 736  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 737  [20:36:02.666] Elapsed:: 0.03667297959327698ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/package.json :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 738  [20:36:02.666] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 739  [20:36:02.667] Elapsed:: 0.5444549918174744ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 740  [20:36:02.667] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 741  [20:36:02.667] Elapsed:: 0.030355006456375122ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/bindings :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 742  [20:36:02.667] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/test :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 743  [20:36:02.667] Elapsed:: 0.2877119779586792ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/test :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 744  [20:36:02.668] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/test :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 745  [20:36:02.668] Elapsed:: 0.01776599884033203ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path/test :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 746  [20:36:02.668] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/doc :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 747  [20:36:02.668] Elapsed:: 0.1525379717350006ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/doc :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 748  [20:36:02.668] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/doc :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 749  [20:36:02.668] Elapsed:: 0.012584984302520752ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/doc :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 750  [20:36:02.668] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 751  [20:36:02.668] Elapsed:: 0.14269602298736572ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 752  [20:36:02.668] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 753  [20:36:02.668] Elapsed:: 0.021977007389068604ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/file-uri-to-path :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 754  [20:36:02.668] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/tools :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 755  [20:36:02.669] Elapsed:: 0.14654698967933655ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/tools :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 756  [20:36:02.669] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/tools :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 757  [20:36:02.669] Elapsed:: 0.01284801959991455ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan/tools :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 758  [20:36:02.669] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 759  [20:36:02.669] Elapsed:: 0.14243102073669434ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 760  [20:36:02.669] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 761  [20:36:02.669] Elapsed:: 0.019108980894088745ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules/nan :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 762  [20:36:02.669] FileWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 763  [20:36:02.669] Elapsed:: 0.03469902276992798ms FileWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 764  [20:36:02.954] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 765  [20:36:02.968] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false Elapsed: 13.62024900317192ms
+Info 766  [20:36:03.696] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 767  [20:36:03.703] Elapsed:: 6.5982129871845245ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project:  WatchType: node_modules for closed script infos in them
+Info 768  [20:36:03.704] DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 769  [20:36:03.704] Elapsed:: 0.09362199902534485ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk2/cache/typescript/4.2/node_modules :: WatchInfo: /home/steiner/disk/disk2/cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 770  [20:36:03.704] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/fsevents 0:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 771  [20:36:03.704] Elapsed:: 0.0692339837551117ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/fsevents 0:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 772  [20:36:03.705] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/bindings 1:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 773  [20:36:03.705] Elapsed:: 0.0434969961643219ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/bindings 1:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 774  [20:36:03.705] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/file-uri-to-path 2:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 775  [20:36:03.705] Elapsed:: 0.03904402256011963ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/file-uri-to-path 2:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 776  [20:36:03.705] DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/nan 3:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 777  [20:36:03.705] Elapsed:: 0.033684998750686646ms DirectoryWatcher:: Triggered with /home/steiner/.cache/typescript/4.2/node_modules/nan 3:: WatchInfo: /home/steiner/.cache/typescript/4.2/node_modules 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 778  [20:36:04.995] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 779  [20:36:05.772] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: true Elapsed: 776.9229100048542ms
+Info 780  [20:36:05.772] Different program with same set of files:: structureIsReused:: 1
+Info 781  [20:36:05.776] FileWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 782  [20:36:05.776] Elapsed:: 0.051560014486312866ms FileWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/node_modules/ts-loader/dist 500 undefined Project: /dev/null/inferredProject1* WatchType: Missing file
+Info 783  [20:36:06.026] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 784  [20:36:06.066] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false Elapsed: 39.99607300758362ms
+Info 785  [20:36:08.275] Before ensureProjectForOpenFiles:
+Info 786  [20:36:08.275] After ensureProjectForOpenFiles:
+Info 787  [20:36:08.275] got projects updated in background, updating diagnostics for /home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js,/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts
+Info 788  [22:20:56.794] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/views/vuework2.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 789  [22:20:56.799] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/views/vuework2.vue
+Info 790  [22:20:56.799] Elapsed:: 3.896830976009369ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/views/vuework2.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 791  [22:20:56.800] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/views/vuework2.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 792  [22:20:56.800] Elapsed:: 0.2589089870452881ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/views/vuework2.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 793  [00:28:53.448] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/task.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 794  [00:28:53.449] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/task.vue
+Info 795  [00:28:53.449] Elapsed:: 0.9107019901275635ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/task.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 796  [00:28:53.450] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/task.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 797  [00:28:53.450] Elapsed:: 0.1542290449142456ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/task.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 798  [00:29:18.666] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model
+Info 799  [00:29:18.667] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 800  [00:29:18.677] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 801  [00:29:20.392] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 1714.8183670043945ms
+Info 802  [00:29:20.393] Project '/dev/null/inferredProject2*' (Inferred)
+Info 803  [00:29:20.393] 	Files (139)
+
+Info 804  [00:29:20.393] -----------------------------------------------
+Info 805  [00:29:20.399] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject2*
+Info 806  [00:29:20.653] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject2* Version: 1 structureChanged: true Elapsed: 254.14979100227356ms
+Info 807  [00:29:20.653] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 808  [00:29:20.653] 	Files (11)
+
+Info 809  [00:29:20.653] -----------------------------------------------
+Info 810  [00:29:20.656] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 811  [00:29:20.656] Elapsed:: 0.06725597381591797ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 812  [00:29:20.656] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 813  [00:29:20.656] Elapsed:: 0.028127968311309814ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 814  [00:29:20.681] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 815  [00:29:20.759] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 52 structureChanged: true Elapsed: 77.95492196083069ms
+Info 816  [00:29:20.760] Project '/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json' (Configured)
+Info 817  [00:29:20.760] 	Files (67)
+
+Info 818  [00:29:20.760] -----------------------------------------------
+Info 819  [00:29:23.135] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 820  [00:29:23.159] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 53 structureChanged: false Elapsed: 24.030203998088837ms
+Info 821  [00:29:23.160] Different program with same set of files:: structureIsReused:: 2
+Info 822  [00:29:23.173] Before ensureProjectForOpenFiles:
+Info 823  [00:29:23.174] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 824  [00:29:23.219] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: true Elapsed: 44.527276039123535ms
+Info 825  [00:29:23.219] Project '/dev/null/inferredProject2*' (Inferred)
+Info 826  [00:29:23.219] 	Files (0)
+
+Info 827  [00:29:23.220] -----------------------------------------------
+Info 828  [00:29:23.220] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 829  [00:29:23.220] 	Files (11)
+
+Info 830  [00:29:23.220] -----------------------------------------------
+Info 831  [00:29:23.221] After ensureProjectForOpenFiles:
+Info 832  [00:29:23.221] got projects updated in background, updating diagnostics for /home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js,/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts,/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts
+Info 833  [00:29:24.177] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 834  [00:29:24.206] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 54 structureChanged: false Elapsed: 29.117334008216858ms
+Info 835  [00:29:24.207] Different program with same set of files:: structureIsReused:: 2
+Info 836  [00:29:24.316] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 837  [00:29:24.320] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 55 structureChanged: false Elapsed: 3.9623119831085205ms
+Info 838  [00:29:24.320] Different program with same set of files:: structureIsReused:: 2
+Info 839  [00:29:24.910] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 840  [00:29:24.937] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 56 structureChanged: false Elapsed: 26.998015999794006ms
+Info 841  [00:29:24.938] Different program with same set of files:: structureIsReused:: 2
+Info 842  [00:29:24.949] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 843  [00:29:24.960] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 57 structureChanged: false Elapsed: 10.212593019008636ms
+Info 844  [00:29:24.960] Different program with same set of files:: structureIsReused:: 2
+Info 845  [00:29:25.218] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 846  [00:29:25.232] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 58 structureChanged: false Elapsed: 13.333720028400421ms
+Info 847  [00:29:25.232] Different program with same set of files:: structureIsReused:: 2
+Info 848  [00:29:25.406] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 849  [00:29:25.412] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 59 structureChanged: false Elapsed: 5.509118974208832ms
+Info 850  [00:29:25.412] Different program with same set of files:: structureIsReused:: 2
+Info 851  [00:29:25.786] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 852  [00:29:25.802] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 60 structureChanged: false Elapsed: 14.911452949047089ms
+Info 853  [00:29:25.802] Different program with same set of files:: structureIsReused:: 2
+Info 854  [00:29:25.977] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 855  [00:29:26.006] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 61 structureChanged: true Elapsed: 28.9119930267334ms
+Info 856  [00:29:26.006] Different program with same set of files:: structureIsReused:: 1
+Info 857  [00:29:26.426] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 858  [00:29:26.442] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 62 structureChanged: false Elapsed: 15.612322986125946ms
+Info 859  [00:29:26.444] Different program with same set of files:: structureIsReused:: 2
+Info 860  [00:29:26.890] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 861  [00:29:26.903] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 63 structureChanged: false Elapsed: 12.499854981899261ms
+Info 862  [00:29:26.903] Different program with same set of files:: structureIsReused:: 2
+Info 863  [00:29:27.021] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 864  [00:29:27.027] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 64 structureChanged: false Elapsed: 5.669959008693695ms
+Info 865  [00:29:27.027] Different program with same set of files:: structureIsReused:: 2
+Info 866  [00:29:29.281] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 867  [00:29:29.305] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 65 structureChanged: false Elapsed: 22.71066802740097ms
+Info 868  [00:29:29.305] Different program with same set of files:: structureIsReused:: 2
+Info 869  [00:29:29.683] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 870  [00:29:29.689] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 66 structureChanged: false Elapsed: 6.393866956233978ms
+Info 871  [00:29:29.689] Different program with same set of files:: structureIsReused:: 2
+Info 872  [00:29:29.987] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 873  [00:29:29.995] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 67 structureChanged: false Elapsed: 7.423842012882233ms
+Info 874  [00:29:29.995] Different program with same set of files:: structureIsReused:: 2
+Info 875  [00:29:30.537] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 876  [00:29:30.555] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 68 structureChanged: false Elapsed: 16.445971965789795ms
+Info 877  [00:29:30.555] Different program with same set of files:: structureIsReused:: 2
+Info 878  [00:29:30.564] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 879  [00:29:30.570] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 69 structureChanged: false Elapsed: 5.845445036888123ms
+Info 880  [00:29:30.571] Different program with same set of files:: structureIsReused:: 2
+Info 881  [00:29:30.882] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 882  [00:29:30.892] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 70 structureChanged: false Elapsed: 9.782537996768951ms
+Info 883  [00:29:30.893] Different program with same set of files:: structureIsReused:: 2
+Info 884  [00:29:30.920] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 885  [00:29:30.930] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 71 structureChanged: false Elapsed: 10.644971013069153ms
+Info 886  [00:29:30.931] Different program with same set of files:: structureIsReused:: 2
+Info 887  [00:29:31.177] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 888  [00:29:31.197] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 72 structureChanged: false Elapsed: 18.637660026550293ms
+Info 889  [00:29:31.197] Different program with same set of files:: structureIsReused:: 2
+Info 890  [00:29:31.561] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 891  [00:29:31.568] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 73 structureChanged: false Elapsed: 6.199594020843506ms
+Info 892  [00:29:31.568] Different program with same set of files:: structureIsReused:: 2
+Info 893  [00:29:32.392] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 894  [00:29:32.398] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 74 structureChanged: false Elapsed: 5.423027992248535ms
+Info 895  [00:29:32.398] Different program with same set of files:: structureIsReused:: 2
+Info 896  [00:29:32.801] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 897  [00:29:32.834] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 75 structureChanged: false Elapsed: 32.40704697370529ms
+Info 898  [00:29:32.835] Different program with same set of files:: structureIsReused:: 2
+Info 899  [00:29:33.105] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 900  [00:29:33.134] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 76 structureChanged: false Elapsed: 28.089673042297363ms
+Info 901  [00:29:33.134] Different program with same set of files:: structureIsReused:: 2
+Info 902  [00:29:33.153] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 903  [00:29:33.171] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 77 structureChanged: false Elapsed: 17.283347010612488ms
+Info 904  [00:29:33.171] Different program with same set of files:: structureIsReused:: 2
+Info 905  [00:29:33.500] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 906  [00:29:33.506] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 78 structureChanged: false Elapsed: 5.170195996761322ms
+Info 907  [00:29:33.506] Different program with same set of files:: structureIsReused:: 2
+Info 908  [00:29:34.205] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 909  [00:29:34.253] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 79 structureChanged: false Elapsed: 47.290120005607605ms
+Info 910  [00:29:34.256] Different program with same set of files:: structureIsReused:: 2
+Info 911  [00:29:34.291] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 912  [00:29:34.301] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 80 structureChanged: false Elapsed: 9.548715949058533ms
+Info 913  [00:29:34.301] Different program with same set of files:: structureIsReused:: 2
+Info 914  [00:29:34.643] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 915  [00:29:34.655] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 81 structureChanged: false Elapsed: 11.949750006198883ms
+Info 916  [00:29:34.656] Different program with same set of files:: structureIsReused:: 2
+Info 917  [00:29:34.819] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 918  [00:29:34.825] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 82 structureChanged: false Elapsed: 5.043931007385254ms
+Info 919  [00:29:34.825] Different program with same set of files:: structureIsReused:: 2
+Info 920  [00:29:35.214] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 921  [00:29:35.236] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 83 structureChanged: false Elapsed: 20.948559999465942ms
+Info 922  [00:29:35.237] Different program with same set of files:: structureIsReused:: 2
+Info 923  [00:29:35.802] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 924  [00:29:35.818] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 84 structureChanged: false Elapsed: 15.24371999502182ms
+Info 925  [00:29:35.819] Different program with same set of files:: structureIsReused:: 2
+Info 926  [00:29:35.857] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 927  [00:29:35.872] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 85 structureChanged: false Elapsed: 14.679717004299164ms
+Info 928  [00:29:35.873] Different program with same set of files:: structureIsReused:: 2
+Info 929  [00:29:36.244] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 930  [00:29:36.251] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 86 structureChanged: false Elapsed: 5.972304999828339ms
+Info 931  [00:29:36.251] Different program with same set of files:: structureIsReused:: 2
+Info 932  [00:29:36.500] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 933  [00:29:36.516] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 87 structureChanged: false Elapsed: 14.932440996170044ms
+Info 934  [00:29:36.516] Different program with same set of files:: structureIsReused:: 2
+Info 935  [00:29:36.644] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 936  [00:29:36.649] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 88 structureChanged: false Elapsed: 5.136848986148834ms
+Info 937  [00:29:36.649] Different program with same set of files:: structureIsReused:: 2
+Info 938  [00:29:37.617] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 939  [00:29:37.634] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 89 structureChanged: false Elapsed: 16.098810017108917ms
+Info 940  [00:29:37.634] Different program with same set of files:: structureIsReused:: 2
+Info 941  [00:29:38.245] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 942  [00:29:38.257] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 90 structureChanged: false Elapsed: 11.503534972667694ms
+Info 943  [00:29:38.257] Different program with same set of files:: structureIsReused:: 2
+Info 944  [00:29:38.612] getCompletionData: Get current token: 0.00889897346496582
+Info 945  [00:29:38.613] getCompletionData: Is inside comment: 0.028280973434448242
+Info 946  [00:29:38.613] getCompletionData: Get previous token 1: 0.020396053791046143
+Info 947  [00:29:38.613] getCompletionData: Get previous token 2: 0.03293997049331665
+Info 948  [00:29:38.613] getCompletionsAtPosition: isCompletionListBlocker: 0.005642056465148926
+Info 949  [00:29:38.617] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 950  [00:29:38.621] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 951  [00:29:38.627] getSymbolsFromOtherSourceFileExports: 9.3856840133667
+Info 952  [00:29:38.636] getCompletionData: Semantic work: 22.31065797805786
+Info 953  [00:29:38.661] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 24.77452200651169
+Info 954  [00:29:41.465] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 955  [00:29:41.485] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 91 structureChanged: false Elapsed: 19.749972999095917ms
+Info 956  [00:29:41.486] Different program with same set of files:: structureIsReused:: 2
+Info 957  [00:29:41.487] getCompletionData: Get current token: 0.08112996816635132
+Info 958  [00:29:41.488] getCompletionData: Is inside comment: 0.23348498344421387
+Info 959  [00:29:41.488] getCompletionData: Get previous token 1: 0.09384602308273315
+Info 960  [00:29:41.488] getCompletionData: Get previous token 2: 0.06975603103637695
+Info 961  [00:29:41.489] getCompletionsAtPosition: isCompletionListBlocker: 0.013540029525756836
+Info 962  [00:29:41.503] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 963  [00:29:41.534] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 964  [00:29:41.541] getSymbolsFromOtherSourceFileExports: 38.49590599536896
+Info 965  [00:29:41.556] getCompletionData: Semantic work: 66.7464770078659
+Info 966  [00:29:41.561] getCompletionData: Get current token: 0.01501399278640747
+Info 967  [00:29:41.561] getCompletionData: Is inside comment: 0.040615975856781006
+Info 968  [00:29:41.561] getCompletionData: Get previous token 1: 0.02205801010131836
+Info 969  [00:29:41.561] getCompletionData: Get previous token 2: 0.028207004070281982
+Info 970  [00:29:41.561] getCompletionsAtPosition: isCompletionListBlocker: 0.006040990352630615
+Info 971  [00:29:41.565] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 972  [00:29:41.572] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 973  [00:29:41.578] getSymbolsFromOtherSourceFileExports: 13.096509993076324
+Info 974  [00:29:41.585] getCompletionData: Semantic work: 23.15166801214218
+Info 975  [00:43:33.167] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskadd.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 976  [00:43:33.168] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskadd.vue
+Info 977  [00:43:33.168] Elapsed:: 0.7375320196151733ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskadd.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 978  [00:43:33.168] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskadd.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 979  [00:43:33.169] Elapsed:: 0.5789499878883362ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskadd.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 980  [00:46:51.396] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 981  [00:46:51.396] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue
+Info 982  [00:46:51.397] Elapsed:: 0.5782489776611328ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 983  [00:46:51.397] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 984  [00:46:51.397] Elapsed:: 0.25464504957199097ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 985  [00:59:31.178] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 986  [00:59:31.179] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue
+Info 987  [00:59:31.179] Elapsed:: 1.4703420400619507ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 988  [00:59:31.180] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 989  [00:59:31.181] Elapsed:: 0.8719620108604431ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/taskinput.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 990  [01:00:01.239] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 991  [01:00:01.251] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 92 structureChanged: false Elapsed: 11.845182001590729ms
+Info 992  [01:00:01.251] Different program with same set of files:: structureIsReused:: 2
+Info 993  [01:00:08.912] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 994  [01:00:08.964] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 93 structureChanged: false Elapsed: 51.46357703208923ms
+Info 995  [01:00:08.965] Different program with same set of files:: structureIsReused:: 2
+Info 996  [01:00:09.968] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 997  [01:00:10.007] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 94 structureChanged: false Elapsed: 38.04014301300049ms
+Info 998  [01:00:10.007] Different program with same set of files:: structureIsReused:: 2
+Info 999  [01:00:10.653] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1000 [01:00:10.683] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 95 structureChanged: true Elapsed: 29.27231800556183ms
+Info 1001 [01:00:10.683] Different program with same set of files:: structureIsReused:: 1
+Info 1002 [01:00:12.592] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1003 [01:00:13.278] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1004 [01:00:13.313] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 96 structureChanged: false Elapsed: 33.95037001371384ms
+Info 1005 [01:00:13.313] Different program with same set of files:: structureIsReused:: 2
+Info 1006 [01:00:13.458] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1007 [01:00:13.763] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1008 [01:00:13.815] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 97 structureChanged: false Elapsed: 52.262520015239716ms
+Info 1009 [01:00:13.816] Different program with same set of files:: structureIsReused:: 2
+Info 1010 [01:00:14.913] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1011 [01:00:14.931] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 98 structureChanged: false Elapsed: 17.72358500957489ms
+Info 1012 [01:00:14.932] Different program with same set of files:: structureIsReused:: 2
+Info 1013 [01:00:15.542] Format host information updated
+Info 1014 [01:00:15.783] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1015 [01:00:15.810] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 99 structureChanged: false Elapsed: 25.968290984630585ms
+Info 1016 [01:00:15.810] Different program with same set of files:: structureIsReused:: 2
+Info 1017 [01:00:18.529] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1018 [01:00:18.565] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 100 structureChanged: false Elapsed: 35.53621703386307ms
+Info 1019 [01:00:18.565] Different program with same set of files:: structureIsReused:: 2
+Info 1020 [01:00:21.346] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1021 [01:00:21.363] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 101 structureChanged: false Elapsed: 16.130312979221344ms
+Info 1022 [01:00:21.363] Different program with same set of files:: structureIsReused:: 2
+Info 1023 [01:00:22.813] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1024 [01:00:22.852] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 102 structureChanged: true Elapsed: 38.313060998916626ms
+Info 1025 [01:00:22.852] Different program with same set of files:: structureIsReused:: 1
+Info 1026 [01:01:29.097] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model
+Info 1027 [01:01:29.098] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1028 [01:01:29.098] `remove Project::
+Info 1029 [01:01:29.098] Project '/dev/null/inferredProject2*' (Inferred)
+Info 1030 [01:01:29.098] 	Files (0)
+
+Info 1031 [01:01:29.098] -----------------------------------------------
+Info 1032 [01:01:29.098] Project '/dev/null/autoImportProviderProject2*' (AutoImportProvider)
+Info 1033 [01:01:29.098] 	Files (11)
+
+Info 1034 [01:01:29.098] -----------------------------------------------
+Info 1035 [01:01:32.512] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1036 [01:01:32.546] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 103 structureChanged: false Elapsed: 33.73323601484299ms
+Info 1037 [01:01:32.547] Different program with same set of files:: structureIsReused:: 2
+Info 1038 [01:01:33.018] getCompletionData: Get current token: 0.01314699649810791
+Info 1039 [01:01:33.018] getCompletionData: Is inside comment: 0.05510300397872925
+Info 1040 [01:01:33.019] getCompletionData: Get previous token 1: 0.030286014080047607
+Info 1041 [01:01:33.019] getCompletionData: Get previous token 2: 0.03306800127029419
+Info 1042 [01:01:33.019] getCompletionsAtPosition: isCompletionListBlocker: 0.028421998023986816
+Info 1043 [01:01:33.025] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1044 [01:01:33.033] getCompletionData: Semantic work: 13.587410986423492
+Info 1045 [01:01:33.050] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 13.921792984008789
+Info 1046 [01:01:33.064] getCompletionData: Get current token: 0.006283998489379883
+Info 1047 [01:01:33.064] getCompletionData: Is inside comment: 0.021445035934448242
+Info 1048 [01:01:33.065] getCompletionData: Get previous token 1: 0.016723990440368652
+Info 1049 [01:01:33.065] getCompletionData: Get previous token 2: 0.016088008880615234
+Info 1050 [01:01:33.065] getCompletionsAtPosition: isCompletionListBlocker: 0.010636985301971436
+Info 1051 [01:01:33.071] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1052 [01:01:33.073] getCompletionData: Semantic work: 7.932218968868256
+Info 1053 [01:01:33.082] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 9.431524991989136
+Info 1054 [01:01:33.099] getCompletionData: Get current token: 0.01007300615310669
+Info 1055 [01:01:33.099] getCompletionData: Is inside comment: 0.029875993728637695
+Info 1056 [01:01:33.099] getCompletionData: Get previous token 1: 0.017293989658355713
+Info 1057 [01:01:33.100] getCompletionData: Get previous token 2: 0.01834702491760254
+Info 1058 [01:01:33.100] getCompletionsAtPosition: isCompletionListBlocker: 0.015495002269744873
+Info 1059 [01:01:33.103] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1060 [01:01:33.104] getCompletionData: Semantic work: 4.20695298910141
+Info 1061 [01:01:33.116] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 11.53531700372696
+Info 1062 [01:16:52.248] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1063 [01:16:52.274] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 104 structureChanged: false Elapsed: 24.699042975902557ms
+Info 1064 [01:16:52.275] Different program with same set of files:: structureIsReused:: 2
+Info 1065 [01:16:52.500] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1066 [01:16:52.523] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 105 structureChanged: true Elapsed: 23.608344972133636ms
+Info 1067 [01:16:52.524] Different program with same set of files:: structureIsReused:: 1
+Info 1068 [01:16:53.979] Format host information updated
+Info 1069 [01:16:54.191] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1070 [01:16:54.213] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 106 structureChanged: false Elapsed: 21.21076798439026ms
+Info 1071 [01:16:54.214] Different program with same set of files:: structureIsReused:: 2
+Info 1072 [01:16:56.625] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1073 [01:16:56.636] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 107 structureChanged: false Elapsed: 10.450874984264374ms
+Info 1074 [01:16:56.637] Different program with same set of files:: structureIsReused:: 2
+Info 1075 [01:16:57.783] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1076 [01:16:57.810] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 108 structureChanged: false Elapsed: 25.845176994800568ms
+Info 1077 [01:16:57.810] Different program with same set of files:: structureIsReused:: 2
+Info 1078 [01:16:59.507] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1079 [01:16:59.547] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 109 structureChanged: false Elapsed: 39.64671403169632ms
+Info 1080 [01:16:59.547] Different program with same set of files:: structureIsReused:: 2
+Info 1081 [01:16:59.551] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1082 [01:16:59.560] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 110 structureChanged: false Elapsed: 8.927609026432037ms
+Info 1083 [01:16:59.561] Different program with same set of files:: structureIsReused:: 2
+Info 1084 [01:17:00.247] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1085 [01:17:00.256] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 111 structureChanged: false Elapsed: 8.704948008060455ms
+Info 1086 [01:17:00.256] Different program with same set of files:: structureIsReused:: 2
+Info 1087 [01:17:00.476] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1088 [01:17:00.506] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 112 structureChanged: false Elapsed: 29.212863981723785ms
+Info 1089 [01:17:00.506] Different program with same set of files:: structureIsReused:: 2
+Info 1090 [01:17:01.558] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1091 [01:17:01.582] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 113 structureChanged: true Elapsed: 23.433569014072418ms
+Info 1092 [01:17:01.582] Different program with same set of files:: structureIsReused:: 1
+Info 1093 [01:17:01.872] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1094 [01:17:01.904] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 114 structureChanged: false Elapsed: 30.98095703125ms
+Info 1095 [01:17:01.904] Different program with same set of files:: structureIsReused:: 2
+Info 1096 [01:17:04.701] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1097 [01:17:04.708] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 115 structureChanged: false Elapsed: 6.532476961612701ms
+Info 1098 [01:17:04.708] Different program with same set of files:: structureIsReused:: 2
+Info 1099 [01:17:04.980] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1100 [01:17:05.021] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 116 structureChanged: false Elapsed: 41.09189397096634ms
+Info 1101 [01:17:05.022] Different program with same set of files:: structureIsReused:: 2
+Info 1102 [01:17:06.657] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1103 [01:17:06.686] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 117 structureChanged: false Elapsed: 28.22171700000763ms
+Info 1104 [01:17:06.686] Different program with same set of files:: structureIsReused:: 2
+Info 1105 [01:17:06.865] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1106 [01:17:06.875] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 118 structureChanged: false Elapsed: 10.037672996520996ms
+Info 1107 [01:17:06.876] Different program with same set of files:: structureIsReused:: 2
+Info 1108 [01:17:07.787] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1109 [01:17:07.803] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 119 structureChanged: false Elapsed: 15.935613989830017ms
+Info 1110 [01:17:07.804] Different program with same set of files:: structureIsReused:: 2
+Info 1111 [01:17:08.184] getCompletionData: Get current token: 0.009704947471618652
+Info 1112 [01:17:08.184] getCompletionData: Is inside comment: 0.04798698425292969
+Info 1113 [01:17:08.184] getCompletionData: Get previous token 1: 0.02977198362350464
+Info 1114 [01:17:08.185] getCompletionData: Get previous token 2: 0.03465300798416138
+Info 1115 [01:17:08.185] getCompletionsAtPosition: isCompletionListBlocker: 0.007790029048919678
+Info 1116 [01:17:08.185] getCompletionData: Semantic work: 0.37607699632644653
+Info 1117 [01:17:08.186] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.4807380437850952
+Info 1118 [01:17:08.187] getCompletionData: Get current token: 0.007936954498291016
+Info 1119 [01:17:08.188] getCompletionData: Is inside comment: 0.03229302167892456
+Info 1120 [01:17:08.188] getCompletionData: Get previous token 1: 0.02481597661972046
+Info 1121 [01:17:08.188] getCompletionData: Get previous token 2: 0.023250997066497803
+Info 1122 [01:17:08.188] getCompletionsAtPosition: isCompletionListBlocker: 0.005539000034332275
+Info 1123 [01:17:08.188] getCompletionData: Semantic work: 0.06259196996688843
+Info 1124 [01:17:08.188] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.030776023864746094
+Info 1125 [01:17:08.188] getCompletionData: Get current token: 0.0064299702644348145
+Info 1126 [01:17:08.188] getCompletionData: Is inside comment: 0.02888697385787964
+Info 1127 [01:17:08.189] getCompletionData: Get previous token 1: 0.02289402484893799
+Info 1128 [01:17:08.189] getCompletionData: Get previous token 2: 0.01985299587249756
+Info 1129 [01:17:08.189] getCompletionsAtPosition: isCompletionListBlocker: 0.004927992820739746
+Info 1130 [01:17:08.189] getCompletionData: Semantic work: 0.027478039264678955
+Info 1131 [01:17:08.189] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.023211002349853516
+Info 1132 [01:17:25.282] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1133 [01:17:25.357] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 120 structureChanged: true Elapsed: 73.91659700870514ms
+Info 1134 [01:17:25.357] Different program with same set of files:: structureIsReused:: 1
+Info 1135 [01:17:25.370] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1136 [01:17:25.386] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 121 structureChanged: false Elapsed: 15.496726036071777ms
+Info 1137 [01:17:25.386] Different program with same set of files:: structureIsReused:: 2
+Info 1138 [01:17:25.593] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1139 [01:17:25.675] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 122 structureChanged: true Elapsed: 81.45201396942139ms
+Info 1140 [01:17:25.675] Different program with same set of files:: structureIsReused:: 1
+Info 1141 [01:17:25.991] getCompletionData: Get current token: 0.009666025638580322
+Info 1142 [01:17:25.992] getCompletionData: Is inside comment: 0.026957988739013672
+Info 1143 [01:17:25.992] getCompletionData: Get previous token 1: 0.015057981014251709
+Info 1144 [01:17:25.992] getCompletionData: Get previous token 2: 0.017176032066345215
+Info 1145 [01:17:25.992] getCompletionsAtPosition: isCompletionListBlocker: 0.013772010803222656
+Info 1146 [01:17:25.997] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1147 [01:17:25.999] getCompletionData: Semantic work: 6.647287011146545
+Info 1148 [01:17:26.022] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 22.82709300518036
+Info 1149 [01:17:26.425] getCompletionData: Get current token: 0.00929403305053711
+Info 1150 [01:17:26.425] getCompletionData: Is inside comment: 0.04727298021316528
+Info 1151 [01:17:26.426] getCompletionData: Get previous token 1: 0.03582197427749634
+Info 1152 [01:17:26.426] getCompletionData: Get previous token 2: 0.045406997203826904
+Info 1153 [01:17:26.426] getCompletionsAtPosition: isCompletionListBlocker: 0.015503942966461182
+Info 1154 [01:17:26.430] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1155 [01:17:26.432] getCompletionData: Semantic work: 5.3292659521102905
+Info 1156 [01:17:26.454] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 18.993677020072937
+Info 1157 [01:17:26.473] getCompletionData: Get current token: 0.009563982486724854
+Info 1158 [01:17:26.473] getCompletionData: Is inside comment: 0.02837902307510376
+Info 1159 [01:17:26.473] getCompletionData: Get previous token 1: 0.015843987464904785
+Info 1160 [01:17:26.473] getCompletionData: Get previous token 2: 0.018705010414123535
+Info 1161 [01:17:26.474] getCompletionsAtPosition: isCompletionListBlocker: 0.015226960182189941
+Info 1162 [01:17:26.483] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1163 [01:17:26.484] getCompletionData: Semantic work: 10.556855022907257
+Info 1164 [01:17:26.500] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 15.436478018760681
+Info 1165 [01:24:24.215] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1166 [01:24:24.500] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1167 [01:24:24.934] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1168 [01:24:25.226] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1169 [01:24:25.473] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1170 [01:24:25.521] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 123 structureChanged: false Elapsed: 47.08246898651123ms
+Info 1171 [01:24:25.521] Different program with same set of files:: structureIsReused:: 2
+Info 1172 [01:24:25.733] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1173 [01:24:25.742] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 124 structureChanged: false Elapsed: 8.329578042030334ms
+Info 1174 [01:24:25.742] Different program with same set of files:: structureIsReused:: 2
+Info 1175 [01:24:26.377] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1176 [01:24:26.386] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 125 structureChanged: false Elapsed: 8.616588950157166ms
+Info 1177 [01:24:26.386] Different program with same set of files:: structureIsReused:: 2
+Info 1178 [01:24:26.677] getCompletionData: Get current token: 0.00907599925994873
+Info 1179 [01:24:26.677] getCompletionData: Is inside comment: 0.011543989181518555
+Info 1180 [01:24:26.677] getCompletionData: Get previous token 1: 0.045857012271881104
+Info 1181 [01:24:26.677] getCompletionsAtPosition: isCompletionListBlocker: 0.02837902307510376
+Info 1182 [01:24:26.677] Returning an empty list because completion was requested in an invalid position.
+Info 1183 [01:24:26.689] getCompletionData: Get current token: 0.00997304916381836
+Info 1184 [01:24:26.690] getCompletionData: Is inside comment: 0.013513028621673584
+Info 1185 [01:24:26.690] getCompletionData: Get previous token 1: 0.052197039127349854
+Info 1186 [01:24:26.690] getCompletionsAtPosition: isCompletionListBlocker: 0.01307004690170288
+Info 1187 [01:24:26.691] Returning an empty list because completion was requested in an invalid position.
+Info 1188 [01:24:26.716] getCompletionData: Get current token: 0.033264994621276855
+Info 1189 [01:24:26.717] getCompletionData: Is inside comment: 0.027824997901916504
+Info 1190 [01:24:26.717] getCompletionData: Get previous token 1: 0.14697402715682983
+Info 1191 [01:24:26.718] getCompletionsAtPosition: isCompletionListBlocker: 0.050729990005493164
+Info 1192 [01:24:26.718] Returning an empty list because completion was requested in an invalid position.
+Info 1193 [01:24:27.037] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1194 [01:24:27.053] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 126 structureChanged: false Elapsed: 15.49075299501419ms
+Info 1195 [01:24:27.053] Different program with same set of files:: structureIsReused:: 2
+Info 1196 [01:24:27.426] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1197 [01:24:27.453] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 127 structureChanged: false Elapsed: 25.594927966594696ms
+Info 1198 [01:24:27.453] Different program with same set of files:: structureIsReused:: 2
+Info 1199 [01:24:27.624] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1200 [01:24:27.631] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 128 structureChanged: false Elapsed: 6.580999970436096ms
+Info 1201 [01:24:27.631] Different program with same set of files:: structureIsReused:: 2
+Info 1202 [01:24:28.455] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1203 [01:24:28.471] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 129 structureChanged: false Elapsed: 15.177718043327332ms
+Info 1204 [01:24:28.471] Different program with same set of files:: structureIsReused:: 2
+Info 1205 [01:24:28.854] getCompletionData: Get current token: 0.009974956512451172
+Info 1206 [01:24:28.854] getCompletionData: Is inside comment: 0.036610960960388184
+Info 1207 [01:24:28.855] getCompletionData: Get previous token 1: 0.03036397695541382
+Info 1208 [01:24:28.855] getCompletionData: Get previous token 2: 0.14705795049667358
+Info 1209 [01:24:28.855] getCompletionsAtPosition: isCompletionListBlocker: 0.008931994438171387
+Info 1210 [01:24:28.858] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1211 [01:24:28.862] getCompletionData: Semantic work: 6.872000992298126
+Info 1212 [01:24:28.868] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 6.124082982540131
+Info 1213 [01:24:31.596] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1214 [01:24:31.830] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1215 [01:24:32.139] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1216 [13:51:23.728] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1217 [13:51:23.770] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 130 structureChanged: false Elapsed: 34.27613604068756ms
+Info 1218 [13:51:23.771] Different program with same set of files:: structureIsReused:: 2
+Info 1219 [13:51:23.988] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1220 [13:51:23.997] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 131 structureChanged: false Elapsed: 8.682860016822815ms
+Info 1221 [13:51:23.997] Different program with same set of files:: structureIsReused:: 2
+Info 1222 [14:30:43.487] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1223 [14:31:04.430] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1224 [14:31:04.529] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 132 structureChanged: true Elapsed: 98.60808598995209ms
+Info 1225 [14:31:04.530] Different program with same set of files:: structureIsReused:: 1
+Info 1226 [14:31:04.847] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1227 [14:31:04.856] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1228 [14:31:04.970] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1229 [14:31:05.359] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1230 [14:31:05.420] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 133 structureChanged: true Elapsed: 60.241376996040344ms
+Info 1231 [14:31:05.421] Different program with same set of files:: structureIsReused:: 1
+Info 1232 [14:31:06.318] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1233 [14:31:06.333] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 134 structureChanged: false Elapsed: 13.781500935554504ms
+Info 1234 [14:31:06.333] Different program with same set of files:: structureIsReused:: 2
+Info 1235 [14:36:57.381] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1236 [14:36:57.395] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 135 structureChanged: false Elapsed: 13.547906994819641ms
+Info 1237 [14:36:57.395] Different program with same set of files:: structureIsReused:: 2
+Info 1238 [14:36:57.596] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1239 [14:36:57.601] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 136 structureChanged: false Elapsed: 5.670365929603577ms
+Info 1240 [14:36:57.601] Different program with same set of files:: structureIsReused:: 2
+Info 1241 [14:36:58.358] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1242 [14:36:58.368] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 137 structureChanged: false Elapsed: 9.676568031311035ms
+Info 1243 [14:36:58.368] Different program with same set of files:: structureIsReused:: 2
+Info 1244 [14:36:58.703] getCompletionData: Get current token: 0.004976034164428711
+Info 1245 [14:36:58.703] getCompletionData: Is inside comment: 0.019757986068725586
+Info 1246 [14:36:58.703] getCompletionData: Get previous token 1: 0.012661933898925781
+Info 1247 [14:36:58.703] getCompletionData: Get previous token 2: 0.013224005699157715
+Info 1248 [14:36:58.703] getCompletionsAtPosition: isCompletionListBlocker: 0.0032110214233398438
+Info 1249 [14:36:58.708] getCompletionData: Semantic work: 4.941241025924683
+Info 1250 [14:36:58.714] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 5.592167973518372
+Info 1251 [14:37:09.849] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1252 [14:37:10.146] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1253 [14:37:10.153] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1254 [14:37:10.163] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 138 structureChanged: false Elapsed: 9.757007002830505ms
+Info 1255 [14:37:10.163] Different program with same set of files:: structureIsReused:: 2
+Info 1256 [14:37:10.535] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1257 [14:37:10.541] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 139 structureChanged: false Elapsed: 5.57551896572113ms
+Info 1258 [14:37:10.541] Different program with same set of files:: structureIsReused:: 2
+Info 1259 [14:37:11.526] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1260 [14:37:11.539] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 140 structureChanged: false Elapsed: 12.751134037971497ms
+Info 1261 [14:37:11.540] Different program with same set of files:: structureIsReused:: 2
+Info 1262 [14:37:13.171] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1263 [14:37:13.188] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 141 structureChanged: false Elapsed: 16.798482060432434ms
+Info 1264 [14:37:13.189] Different program with same set of files:: structureIsReused:: 2
+Info 1265 [14:37:13.982] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1266 [14:37:14.032] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 142 structureChanged: true Elapsed: 48.90326499938965ms
+Info 1267 [14:37:14.032] Different program with same set of files:: structureIsReused:: 1
+Info 1268 [14:37:14.033] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1269 [14:37:14.041] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 143 structureChanged: false Elapsed: 7.504709005355835ms
+Info 1270 [14:37:14.041] Different program with same set of files:: structureIsReused:: 2
+Info 1271 [14:37:14.389] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1272 [14:37:14.393] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 144 structureChanged: false Elapsed: 3.8200249671936035ms
+Info 1273 [14:37:14.393] Different program with same set of files:: structureIsReused:: 2
+Info 1274 [14:37:15.043] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1275 [14:37:15.058] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 145 structureChanged: false Elapsed: 13.957579016685486ms
+Info 1276 [14:37:15.058] Different program with same set of files:: structureIsReused:: 2
+Info 1277 [14:37:15.520] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1278 [14:37:15.533] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 146 structureChanged: false Elapsed: 13.081617951393127ms
+Info 1279 [14:37:15.534] Different program with same set of files:: structureIsReused:: 2
+Info 1280 [14:37:15.949] getCompletionData: Get current token: 0.00798499584197998
+Info 1281 [14:37:15.949] getCompletionData: Is inside comment: 0.010596036911010742
+Info 1282 [14:37:15.949] getCompletionData: Get previous token 1: 0.03257608413696289
+Info 1283 [14:37:15.950] getCompletionData: Get previous token 2: 0.10754597187042236
+Info 1284 [14:37:15.950] getCompletionsAtPosition: isCompletionListBlocker: 0.020089030265808105
+Info 1285 [14:37:15.958] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1286 [14:37:15.961] getCompletionData: Semantic work: 10.879225969314575
+Info 1287 [14:37:15.966] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 5.324329972267151
+Info 1288 [14:37:16.105] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1289 [14:37:16.113] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 147 structureChanged: false Elapsed: 6.834763050079346ms
+Info 1290 [14:37:16.113] Different program with same set of files:: structureIsReused:: 2
+Info 1291 [14:37:16.807] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1292 [14:37:16.815] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 148 structureChanged: false Elapsed: 7.76488995552063ms
+Info 1293 [14:37:16.815] Different program with same set of files:: structureIsReused:: 2
+Info 1294 [14:37:17.164] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1295 [14:37:17.167] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 149 structureChanged: false Elapsed: 3.0058789253234863ms
+Info 1296 [14:37:17.167] Different program with same set of files:: structureIsReused:: 2
+Info 1297 [14:37:17.713] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1298 [14:37:17.729] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 150 structureChanged: false Elapsed: 15.146164059638977ms
+Info 1299 [14:37:17.729] Different program with same set of files:: structureIsReused:: 2
+Info 1300 [14:37:17.730] getCompletionData: Get current token: 0.04034006595611572
+Info 1301 [14:37:17.730] getCompletionData: Is inside comment: 0.028465986251831055
+Info 1302 [14:37:17.730] getCompletionData: Get previous token 1: 0.05435192584991455
+Info 1303 [14:37:17.731] getCompletionData: Get previous token 2: 0.12294590473175049
+Info 1304 [14:37:17.731] getCompletionsAtPosition: isCompletionListBlocker: 0.032829999923706055
+Info 1305 [14:37:17.738] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 1306 [14:37:17.750] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1307 [14:37:17.763] getSymbolsFromOtherSourceFileExports: 25.114345908164978
+Info 1308 [14:37:17.769] getCompletionData: Semantic work: 38.13985502719879
+Info 1309 [14:37:17.773] getCompletionData: Get current token: 0.01246798038482666
+Info 1310 [14:37:17.773] getCompletionData: Is inside comment: 0.010800004005432129
+Info 1311 [14:37:17.773] getCompletionData: Get previous token 1: 0.017858028411865234
+Info 1312 [14:37:17.773] getCompletionData: Get previous token 2: 0.023182034492492676
+Info 1313 [14:37:17.773] getCompletionsAtPosition: isCompletionListBlocker: 0.020577073097229004
+Info 1314 [14:37:17.777] getSymbolsFromOtherSourceFileExports: Recomputing list for details entry
+Info 1315 [14:37:17.788] forEachExternalModuleToImportFrom: filtered out 0 modules by package.json contents
+Info 1316 [14:37:17.795] getSymbolsFromOtherSourceFileExports: 18.32651698589325
+Info 1317 [14:37:17.803] getCompletionData: Semantic work: 29.268077969551086
+Info 1318 [14:37:18.788] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1319 [14:37:18.801] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 151 structureChanged: false Elapsed: 13.001461029052734ms
+Info 1320 [14:37:18.802] Different program with same set of files:: structureIsReused:: 2
+Info 1321 [14:37:19.511] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1322 [14:37:19.528] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 152 structureChanged: false Elapsed: 15.819551944732666ms
+Info 1323 [14:37:19.528] Different program with same set of files:: structureIsReused:: 2
+Info 1324 [14:37:19.845] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1325 [14:37:19.851] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 153 structureChanged: false Elapsed: 5.492858052253723ms
+Info 1326 [14:37:19.851] Different program with same set of files:: structureIsReused:: 2
+Info 1327 [14:37:20.254] getCompletionData: Get current token: 0.017538070678710938
+Info 1328 [14:37:20.255] getCompletionData: Is inside comment: 0.1501779556274414
+Info 1329 [14:37:20.255] getCompletionData: Get previous token 1: 0.08825492858886719
+Info 1330 [14:37:20.256] getCompletionData: Get previous token 2: 0.09133601188659668
+Info 1331 [14:37:20.256] getCompletionsAtPosition: isCompletionListBlocker: 0.046566009521484375
+Info 1332 [14:37:20.264] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1333 [14:37:20.265] getCompletionData: Semantic work: 9.027260065078735
+Info 1334 [14:37:20.275] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 9.78770399093628
+Info 1335 [14:37:24.926] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1336 [14:37:24.949] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 154 structureChanged: false Elapsed: 22.731690049171448ms
+Info 1337 [14:37:24.950] Different program with same set of files:: structureIsReused:: 2
+Info 1338 [14:37:25.409] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1339 [14:37:25.469] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 155 structureChanged: true Elapsed: 58.94236600399017ms
+Info 1340 [14:37:25.469] Different program with same set of files:: structureIsReused:: 1
+Info 1341 [14:37:26.895] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1342 [14:37:26.909] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 156 structureChanged: false Elapsed: 13.76258099079132ms
+Info 1343 [14:37:26.909] Different program with same set of files:: structureIsReused:: 2
+Info 1344 [14:37:27.225] getCompletionData: Get current token: 0.008502006530761719
+Info 1345 [14:37:27.226] getCompletionData: Is inside comment: 0.011618971824645996
+Info 1346 [14:37:27.226] getCompletionData: Get previous token 1: 0.04675304889678955
+Info 1347 [14:37:27.226] getCompletionData: Get previous token 2: 0.028123974800109863
+Info 1348 [14:37:27.226] getCompletionsAtPosition: isCompletionListBlocker: 0.006253957748413086
+Info 1349 [14:37:27.226] getCompletionData: Semantic work: 0.05548405647277832
+Info 1350 [14:37:27.226] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0.04027605056762695
+Info 1351 [14:38:19.669] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1352 [14:38:19.689] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 157 structureChanged: true Elapsed: 19.39669108390808ms
+Info 1353 [14:38:19.689] Different program with same set of files:: structureIsReused:: 1
+Info 1354 [14:38:19.694] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1355 [14:38:19.700] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 158 structureChanged: false Elapsed: 6.409456014633179ms
+Info 1356 [14:38:19.700] Different program with same set of files:: structureIsReused:: 2
+Info 1357 [14:38:20.157] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1358 [14:38:20.257] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 159 structureChanged: true Elapsed: 99.57289707660675ms
+Info 1359 [14:38:20.258] Different program with same set of files:: structureIsReused:: 1
+Info 1360 [14:40:10.029] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1361 [14:40:10.042] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 160 structureChanged: false Elapsed: 12.857403993606567ms
+Info 1362 [14:40:10.043] Different program with same set of files:: structureIsReused:: 2
+Info 1363 [14:40:24.131] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1364 [14:40:24.163] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 161 structureChanged: true Elapsed: 31.74292504787445ms
+Info 1365 [14:40:24.164] Different program with same set of files:: structureIsReused:: 1
+Info 1366 [14:40:25.015] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1367 [14:40:25.042] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 162 structureChanged: false Elapsed: 25.721033930778503ms
+Info 1368 [14:40:25.042] Different program with same set of files:: structureIsReused:: 2
+Info 1369 [14:40:25.077] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1370 [14:40:25.093] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 163 structureChanged: false Elapsed: 14.779131054878235ms
+Info 1371 [14:40:25.093] Different program with same set of files:: structureIsReused:: 2
+Info 1372 [14:40:25.635] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1373 [14:40:25.653] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 164 structureChanged: false Elapsed: 16.432404041290283ms
+Info 1374 [14:40:25.653] Different program with same set of files:: structureIsReused:: 2
+Info 1375 [14:40:25.710] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1376 [14:40:25.721] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1377 [14:40:25.727] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 165 structureChanged: false Elapsed: 6.017832040786743ms
+Info 1378 [14:40:25.728] Different program with same set of files:: structureIsReused:: 2
+Info 1379 [14:40:25.932] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1380 [14:40:26.302] getCompletionData: Get current token: 0.007686018943786621
+Info 1381 [14:40:26.302] getCompletionData: Is inside comment: 0.0129929780960083
+Info 1382 [14:40:26.302] getCompletionData: Get previous token 1: 0.04496300220489502
+Info 1383 [14:40:26.302] getCompletionData: Get previous token 2: 0.0117110013961792
+Info 1384 [14:40:26.306] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1385 [14:40:26.307] getCompletionData: Semantic work: 4.206231951713562
+Info 1386 [14:40:26.312] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 4.889715909957886
+Info 1387 [14:40:26.332] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1388 [14:40:26.357] getCompletionData: Get current token: 0.013347983360290527
+Info 1389 [14:40:26.357] getCompletionData: Is inside comment: 0.012164950370788574
+Info 1390 [14:40:26.358] getCompletionData: Get previous token 1: 0.041638970375061035
+Info 1391 [14:40:26.358] getCompletionData: Get previous token 2: 0.019770026206970215
+Info 1392 [14:40:26.361] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1393 [14:40:26.362] getCompletionData: Semantic work: 4.123584032058716
+Info 1394 [14:40:26.371] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 8.910572052001953
+Info 1395 [14:40:26.378] getCompletionData: Get current token: 0.007302045822143555
+Info 1396 [14:40:26.378] getCompletionData: Is inside comment: 0.010776042938232422
+Info 1397 [14:40:26.379] getCompletionData: Get previous token 1: 0.06486499309539795
+Info 1398 [14:40:26.379] getCompletionData: Get previous token 2: 0.018556952476501465
+Info 1399 [14:40:26.385] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 1400 [14:40:26.386] getCompletionData: Semantic work: 6.671831011772156
+Info 1401 [14:40:26.395] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 9.165109038352966
+Info 1402 [14:40:27.284] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1403 [14:40:27.291] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 166 structureChanged: false Elapsed: 6.570122003555298ms
+Info 1404 [14:40:27.291] Different program with same set of files:: structureIsReused:: 2
+Info 1405 [14:40:27.639] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1406 [14:40:27.666] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 167 structureChanged: false Elapsed: 26.755882024765015ms
+Info 1407 [14:40:27.667] Different program with same set of files:: structureIsReused:: 2
+Info 1408 [14:40:27.690] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1409 [14:40:27.698] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1410 [14:40:27.716] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 168 structureChanged: true Elapsed: 17.727134943008423ms
+Info 1411 [14:40:27.716] Different program with same set of files:: structureIsReused:: 1
+Info 1412 [14:42:36.875] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1413 [14:42:36.915] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 169 structureChanged: true Elapsed: 39.38176906108856ms
+Info 1414 [14:42:36.915] Different program with same set of files:: structureIsReused:: 1
+Info 1415 [14:42:40.018] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1416 [14:42:40.044] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 170 structureChanged: false Elapsed: 25.690443992614746ms
+Info 1417 [14:42:40.045] Different program with same set of files:: structureIsReused:: 2
+Info 1418 [14:42:40.464] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1419 [14:42:40.480] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 171 structureChanged: false Elapsed: 15.197311997413635ms
+Info 1420 [14:42:40.480] Different program with same set of files:: structureIsReused:: 2
+Info 1421 [14:42:40.497] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1422 [14:42:40.504] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 172 structureChanged: false Elapsed: 6.797757029533386ms
+Info 1423 [14:42:40.505] Different program with same set of files:: structureIsReused:: 2
+Info 1424 [14:42:40.851] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1425 [14:42:40.864] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 173 structureChanged: false Elapsed: 12.64481794834137ms
+Info 1426 [14:42:40.864] Different program with same set of files:: structureIsReused:: 2
+Info 1427 [14:42:40.888] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1428 [14:42:41.241] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1429 [14:42:41.250] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 174 structureChanged: false Elapsed: 8.447825908660889ms
+Info 1430 [14:42:41.250] Different program with same set of files:: structureIsReused:: 2
+Info 1431 [14:42:41.694] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1432 [14:42:41.707] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 175 structureChanged: false Elapsed: 13.151409983634949ms
+Info 1433 [14:42:41.708] Different program with same set of files:: structureIsReused:: 2
+Info 1434 [14:42:41.787] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1435 [14:42:41.800] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1436 [14:42:41.811] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 176 structureChanged: false Elapsed: 10.336353063583374ms
+Info 1437 [14:42:41.811] Different program with same set of files:: structureIsReused:: 2
+Info 1438 [14:45:14.023] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 1439 [14:45:14.025] Elapsed:: 1.6916320323944092ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 1440 [14:45:14.026] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 1441 [14:45:14.027] Elapsed:: 0.6310540437698364ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 1442 [14:45:14.027] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 1443 [14:45:14.028] Elapsed:: 0.37995004653930664ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 1444 [14:45:14.028] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 1445 [14:45:14.028] Elapsed:: 0.20387399196624756ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 1446 [14:45:14.285] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1447 [14:45:14.301] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 177 structureChanged: true Elapsed: 15.34154498577118ms
+Info 1448 [14:45:14.301] Project '/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json' (Configured)
+Info 1449 [14:45:14.301] 	Files (66)
+
+Info 1450 [14:45:14.301] -----------------------------------------------
+Info 1451 [14:45:15.037] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 1452 [14:45:15.038] Elapsed:: 0.24956107139587402ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
+Info 1453 [14:45:15.038] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 1454 [14:45:15.038] Elapsed:: 0.1122140884399414ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 1455 [14:45:15.320] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1456 [14:45:15.474] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 178 structureChanged: true Elapsed: 154.40723991394043ms
+Info 1457 [14:45:15.474] Different program with same set of files:: structureIsReused:: 1
+Info 1458 [14:45:17.806] Before ensureProjectForOpenFiles:
+Info 1459 [14:45:17.808] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 1460 [14:45:18.055] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 1 structureChanged: true Elapsed: 246.38743805885315ms
+Info 1461 [14:45:18.055] Project '/dev/null/inferredProject3*' (Inferred)
+Info 1462 [14:45:18.055] 	Files (139)
+
+Info 1463 [14:45:18.055] -----------------------------------------------
+Info 1464 [14:45:18.059] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject3*
+Info 1465 [14:45:18.083] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject3* Version: 1 structureChanged: true Elapsed: 23.83925199508667ms
+Info 1466 [14:45:18.083] Project '/dev/null/autoImportProviderProject3*' (AutoImportProvider)
+Info 1467 [14:45:18.083] 	Files (11)
+
+Info 1468 [14:45:18.083] -----------------------------------------------
+Info 1469 [14:45:18.083] After ensureProjectForOpenFiles:
+Info 1470 [14:45:18.083] got projects updated in background, updating diagnostics for /home/steiner/disk/disk1/workspace/school-work/htmlwork/vue.config.js,/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts,/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/model/task.ts
+Info 1471 [14:45:24.571] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src
+Info 1472 [14:45:24.571] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/shims-vue.d.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1473 [14:45:27.272] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1474 [14:45:27.285] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 179 structureChanged: false Elapsed: 12.512105941772461ms
+Info 1475 [14:45:27.286] Different program with same set of files:: structureIsReused:: 2
+Info 1476 [14:45:29.053] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1477 [14:45:29.075] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 180 structureChanged: false Elapsed: 21.178022027015686ms
+Info 1478 [14:45:29.075] Different program with same set of files:: structureIsReused:: 2
+Info 1479 [14:45:29.393] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1480 [14:45:29.398] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 181 structureChanged: false Elapsed: 4.546994924545288ms
+Info 1481 [14:45:29.398] Different program with same set of files:: structureIsReused:: 2
+Info 1482 [14:45:30.185] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1483 [14:45:30.205] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 182 structureChanged: false Elapsed: 19.87693703174591ms
+Info 1484 [14:45:30.206] Different program with same set of files:: structureIsReused:: 2
+Info 1485 [14:45:30.645] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1486 [14:45:30.665] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 183 structureChanged: false Elapsed: 19.650608897209167ms
+Info 1487 [14:45:30.665] Different program with same set of files:: structureIsReused:: 2
+Info 1488 [14:45:30.824] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1489 [14:45:30.827] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 184 structureChanged: false Elapsed: 3.1568350791931152ms
+Info 1490 [14:45:30.828] Different program with same set of files:: structureIsReused:: 2
+Info 1491 [14:45:31.268] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1492 [14:45:31.280] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 185 structureChanged: false Elapsed: 11.190696001052856ms
+Info 1493 [14:45:31.280] Different program with same set of files:: structureIsReused:: 2
+Info 1494 [14:45:31.732] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1495 [14:45:31.735] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 186 structureChanged: false Elapsed: 3.514633059501648ms
+Info 1496 [14:45:31.736] Different program with same set of files:: structureIsReused:: 2
+Info 1497 [14:45:31.814] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1498 [14:45:31.817] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 187 structureChanged: false Elapsed: 3.1049410104751587ms
+Info 1499 [14:45:31.817] Different program with same set of files:: structureIsReused:: 2
+Info 1500 [14:45:32.088] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1501 [14:45:32.113] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 188 structureChanged: false Elapsed: 24.72590696811676ms
+Info 1502 [14:45:32.113] Different program with same set of files:: structureIsReused:: 2
+Info 1503 [14:45:32.375] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1504 [14:45:32.397] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 189 structureChanged: false Elapsed: 21.65094494819641ms
+Info 1505 [14:45:32.397] Different program with same set of files:: structureIsReused:: 2
+Info 1506 [14:45:33.557] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1507 [14:45:33.576] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 190 structureChanged: false Elapsed: 18.526360034942627ms
+Info 1508 [14:45:33.576] Different program with same set of files:: structureIsReused:: 2
+Info 1509 [14:45:33.747] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1510 [14:45:33.750] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 191 structureChanged: false Elapsed: 2.8640480041503906ms
+Info 1511 [14:45:33.750] Different program with same set of files:: structureIsReused:: 2
+Info 1512 [14:45:34.365] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1513 [14:45:34.372] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 192 structureChanged: false Elapsed: 6.573498964309692ms
+Info 1514 [14:45:34.372] Different program with same set of files:: structureIsReused:: 2
+Info 1515 [14:45:34.394] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1516 [14:45:34.404] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 193 structureChanged: false Elapsed: 10.036227941513062ms
+Info 1517 [14:45:34.404] Different program with same set of files:: structureIsReused:: 2
+Info 1518 [14:45:35.045] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1519 [14:45:35.071] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 194 structureChanged: false Elapsed: 25.498659014701843ms
+Info 1520 [14:45:35.072] Different program with same set of files:: structureIsReused:: 2
+Info 1521 [14:45:35.218] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1522 [14:45:35.222] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 195 structureChanged: false Elapsed: 3.1691240072250366ms
+Info 1523 [14:45:35.222] Different program with same set of files:: structureIsReused:: 2
+Info 1524 [14:45:35.615] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1525 [14:45:35.622] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 196 structureChanged: false Elapsed: 6.5829020738601685ms
+Info 1526 [14:45:35.622] Different program with same set of files:: structureIsReused:: 2
+Info 1527 [14:45:35.721] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1528 [14:45:35.725] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 197 structureChanged: false Elapsed: 4.258793950080872ms
+Info 1529 [14:45:35.725] Different program with same set of files:: structureIsReused:: 2
+Info 1530 [14:45:35.958] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1531 [14:45:35.965] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 198 structureChanged: false Elapsed: 6.46048903465271ms
+Info 1532 [14:45:35.965] Different program with same set of files:: structureIsReused:: 2
+Info 1533 [14:45:36.026] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1534 [14:45:36.037] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 199 structureChanged: false Elapsed: 10.823495984077454ms
+Info 1535 [14:45:36.038] Different program with same set of files:: structureIsReused:: 2
+Info 1536 [14:45:36.809] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1537 [14:45:36.822] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 200 structureChanged: false Elapsed: 12.549883961677551ms
+Info 1538 [14:45:36.822] Different program with same set of files:: structureIsReused:: 2
+Info 1539 [14:45:36.856] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1540 [14:45:36.863] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 201 structureChanged: false Elapsed: 6.824562907218933ms
+Info 1541 [14:45:36.863] Different program with same set of files:: structureIsReused:: 2
+Info 1542 [14:45:37.391] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1543 [14:45:37.413] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 202 structureChanged: false Elapsed: 21.159889936447144ms
+Info 1544 [14:45:37.413] Different program with same set of files:: structureIsReused:: 2
+Info 1545 [14:45:46.820] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1546 [14:45:46.835] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 203 structureChanged: false Elapsed: 14.009705901145935ms
+Info 1547 [14:45:46.835] Different program with same set of files:: structureIsReused:: 2
+Info 1548 [14:45:46.938] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1549 [14:45:46.941] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 204 structureChanged: false Elapsed: 2.9212340116500854ms
+Info 1550 [14:45:46.941] Different program with same set of files:: structureIsReused:: 2
+Info 1551 [14:45:47.426] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1552 [14:45:47.457] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 205 structureChanged: false Elapsed: 29.88488495349884ms
+Info 1553 [14:45:47.457] Different program with same set of files:: structureIsReused:: 2
+Info 1554 [14:45:48.873] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 1555 [14:45:48.891] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 206 structureChanged: false Elapsed: 17.626901984214783ms
+Info 1556 [14:45:48.891] Different program with same set of files:: structureIsReused:: 2
+Info 1557 [14:45:49.213] getCompletionData: Get current token: 0.008056044578552246
+Info 1558 [14:45:49.213] getCompletionData: Is inside comment: 0.028273940086364746
+Info 1559 [14:45:49.213] getCompletionData: Get previous token 1: 0.01925194263458252
+Info 1560 [14:45:49.214] getCompletionData: Get previous token 2: 0.02258896827697754
+Info 1561 [14:45:49.214] getCompletionsAtPosition: isCompletionListBlocker: 0.0051490068435668945
+Info 1562 [14:45:49.217] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 1563 [14:45:49.221] forEachExternalModuleToImportFrom: filtered out 10 modules by package.json contents
+Info 1564 [14:45:49.227] getSymbolsFromOtherSourceFileExports: 9.289515018463135
+Info 1565 [14:45:49.231] getCompletionData: Semantic work: 17.157110929489136
+Info 1566 [14:45:49.239] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 7.672966003417969
