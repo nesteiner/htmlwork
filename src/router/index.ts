@@ -45,7 +45,13 @@ const routes: Array<RouteRecordRaw> = [
 		path: '/vuework2',
 		name: 'vuework2',
 		component: () => import('@/views/vuework2.vue')
+	},
+  	{
+		path: '/vuework3',
+		name: 'vuework3',
+		component: () => import('@/views/vuework3.vue')
 	}
+
 
 ]
 
