@@ -20,19 +20,6 @@
     </div>
   </div>
 
-  <div class="playground">
-    <row>
-      <span>Hello</span>
-      <span>World</span>
-      <span>Fuck</span>
-    </row>
-
-    <column>
-      <span>Hello</span>
-      <span>World</span>
-      <span>Fuck</span>
-    </column>
-  </div>
 </template>
 
 <script lang="ts">
@@ -40,14 +27,11 @@
  // import task from '@/model/task'
  import Task from '@/components/task.vue';
  import TaskAdd from '@/components/taskadd.vue'
- import {row, column} from 'component'
 
  export default defineComponent({
    components: {
      Task,
      TaskAdd,
-     row,
-     column
    },
    
    setup() {

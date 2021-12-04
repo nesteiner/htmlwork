@@ -1,12 +1,12 @@
-Info 0    [15:58:23.301] Starting TS Server
-Info 1    [15:58:23.303] Version: 4.2.4
-Info 2    [15:58:23.303] Arguments: /usr/bin/node /usr/local/bin/tsserver --logFile /home/steiner/disk/disk1/workspace/school-work/htmlwork/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/90c960108b50f7ff13b6e0b3a3098bd0/tscancellation*
-Info 3    [15:58:23.303] Platform: linux NodeVersion: 10 CaseSensitive: true
-Info 4    [15:58:23.303] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
-Info 5    [15:58:23.326] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router
-Info 6    [15:58:23.328] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 7    [15:58:23.328] Opened configuration file /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 8    [15:58:23.356] Config: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json : {
+Info 0    [23:17:35.648] Starting TS Server
+Info 1    [23:17:35.649] Version: 4.2.4
+Info 2    [23:17:35.649] Arguments: /usr/bin/node /usr/local/bin/tsserver --logFile /home/steiner/disk/disk1/workspace/school-work/htmlwork/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/89b52e9c20338405cc3616e8811b0b76/tscancellation*
+Info 3    [23:17:35.649] Platform: linux NodeVersion: 10 CaseSensitive: true
+Info 4    [23:17:35.649] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [23:17:35.665] Search path: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router
+Info 6    [23:17:35.667] For info: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/router/index.ts :: Config file name: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 7    [23:17:35.667] Opened configuration file /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 8    [23:17:35.697] Config: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json : {
  "rootNames": [
   "/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/main.ts",
   "/home/steiner/disk/disk1/workspace/school-work/htmlwork/src/shims-vue.d.ts",
@@ -48,47 +48,42 @@ Info 8    [15:58:23.356] Config: /home/steiner/disk/disk1/workspace/school-work/
   "configFilePath": "/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json"
  }
 }
-Info 9    [15:58:23.369] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 10   [15:58:26.067] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 1 structureChanged: true Elapsed: 2697.1944719552994ms
-Info 11   [15:58:26.067] Project '/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json' (Configured)
-Info 12   [15:58:26.067] 	Files (67)
+Info 9    [23:17:35.705] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 10   [23:17:38.070] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 1 structureChanged: true Elapsed: 2365.495260000229ms
+Info 11   [23:17:38.071] Project '/home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json' (Configured)
+Info 12   [23:17:38.071] 	Files (67)
 
-Info 13   [15:58:26.067] -----------------------------------------------
-Info 14   [15:58:28.941] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 15   [15:58:28.969] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 2 structureChanged: false Elapsed: 27.586691975593567ms
-Info 16   [15:58:28.970] Different program with same set of files:: structureIsReused:: 2
-Info 17   [15:58:29.340] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 18   [15:58:29.345] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 3 structureChanged: false Elapsed: 5.558637976646423ms
-Info 19   [15:58:29.345] Different program with same set of files:: structureIsReused:: 2
-Info 20   [15:58:29.943] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 21   [15:58:30.022] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 4 structureChanged: true Elapsed: 78.07032299041748ms
-Info 22   [15:58:30.022] Different program with same set of files:: structureIsReused:: 1
-Info 23   [15:58:32.496] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 24   [15:58:32.521] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 5 structureChanged: false Elapsed: 24.984214067459106ms
-Info 25   [15:58:32.522] Different program with same set of files:: structureIsReused:: 2
-Info 26   [15:58:33.454] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 27   [15:58:33.489] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 6 structureChanged: false Elapsed: 34.18197000026703ms
-Info 28   [15:58:33.489] Different program with same set of files:: structureIsReused:: 2
-Info 29   [15:58:33.491] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 30   [15:58:33.506] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 7 structureChanged: false Elapsed: 14.188598036766052ms
-Info 31   [15:58:33.506] Different program with same set of files:: structureIsReused:: 2
-Info 32   [15:58:35.340] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 33   [15:58:35.389] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 8 structureChanged: true Elapsed: 48.91961693763733ms
-Info 34   [15:58:35.389] Different program with same set of files:: structureIsReused:: 1
-Info 35   [15:58:35.395] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
-Info 36   [15:58:35.428] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 9 structureChanged: true Elapsed: 33.156898021698ms
-Info 37   [15:58:35.428] Different program with same set of files:: structureIsReused:: 1
-Info 38   [18:57:23.711] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
-Info 39   [18:57:23.714] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue
-Info 40   [18:57:23.715] Elapsed:: 3.4092429876327515ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
-Info 41   [18:57:23.716] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 42   [18:57:23.717] Elapsed:: 1.456178903579712ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 43   [18:59:40.869] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
-Info 44   [18:59:40.870] Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Detected file add/remove of non supported extension: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue
-Info 45   [18:59:40.870] Elapsed:: 0.7020870447158813ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Wild card directory
-Info 46   [18:59:40.870] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 47   [18:59:40.870] Elapsed:: 0.28877103328704834ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/src/components/Tags.vue 0:: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork/src 1 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 48   [00:01:45.008] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 49   [00:01:45.008] Elapsed:: 0.26549696922302246ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 50   [00:02:16.224] DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
-Info 51   [00:02:16.224] Elapsed:: 0.04983806610107422ms DirectoryWatcher:: Triggered with /home/steiner/disk/disk1/workspace/school-work/htmlwork/dist :: WatchInfo: /home/steiner/disk/disk1/workspace/school-work/htmlwork 0 undefined Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json WatchType: Failed Lookup Locations
+Info 13   [23:17:38.071] -----------------------------------------------
+Info 14   [23:17:38.084] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 15   [23:17:38.090] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 5.84977100789547ms
+Info 16   [23:17:38.090] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 17   [23:17:38.090] 	Files (1)
+
+Info 18   [23:17:38.090] -----------------------------------------------
+Info 19   [23:17:40.136] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 20   [23:17:40.156] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 2 structureChanged: false Elapsed: 20.33093799650669ms
+Info 21   [23:17:40.157] Different program with same set of files:: structureIsReused:: 2
+Info 22   [23:17:40.473] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 23   [23:17:40.482] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 3 structureChanged: false Elapsed: 8.62100100517273ms
+Info 24   [23:17:40.482] Different program with same set of files:: structureIsReused:: 2
+Info 25   [23:17:41.336] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 26   [23:17:41.375] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 4 structureChanged: true Elapsed: 39.055066004395485ms
+Info 27   [23:17:41.376] Different program with same set of files:: structureIsReused:: 1
+Info 28   [23:17:44.404] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 29   [23:17:44.426] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 5 structureChanged: false Elapsed: 21.56768099963665ms
+Info 30   [23:17:44.427] Different program with same set of files:: structureIsReused:: 2
+Info 31   [23:17:44.705] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 32   [23:17:44.731] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 6 structureChanged: false Elapsed: 25.607710003852844ms
+Info 33   [23:17:44.732] Different program with same set of files:: structureIsReused:: 2
+Info 34   [23:17:45.776] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 35   [23:17:45.809] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 7 structureChanged: false Elapsed: 32.78890599310398ms
+Info 36   [23:17:45.810] Different program with same set of files:: structureIsReused:: 2
+Info 37   [23:17:46.134] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 38   [23:17:46.141] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 8 structureChanged: false Elapsed: 6.0164600014686584ms
+Info 39   [23:17:46.141] Different program with same set of files:: structureIsReused:: 2
+Info 40   [23:17:49.014] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 41   [23:17:49.050] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 9 structureChanged: true Elapsed: 35.72606700658798ms
+Info 42   [23:17:49.050] Different program with same set of files:: structureIsReused:: 1
+Info 43   [23:17:49.359] Starting updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json
+Info 44   [23:17:49.376] Finishing updateGraphWorker: Project: /home/steiner/disk/disk1/workspace/school-work/htmlwork/tsconfig.json Version: 10 structureChanged: true Elapsed: 16.096087008714676ms
+Info 45   [23:17:49.376] Different program with same set of files:: structureIsReused:: 1

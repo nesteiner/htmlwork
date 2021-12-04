@@ -7,6 +7,7 @@
     <router-link to="/vuework">Vue Work</router-link> <br>
     <router-link to="/vuework2">Vue Work2</router-link> <br>
     <router-link to="/vuework3">Vue Work3</router-link> <br>
+    <router-link to="/vuework4">Vue Work4</router-link> <br>
   </div>
 </template>
 
