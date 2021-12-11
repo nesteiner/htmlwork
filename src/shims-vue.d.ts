@@ -9,3 +9,10 @@ declare interface task {
   text: string,
   isdone: boolean
 }
+
+declare interface Section {
+  id: number,
+  name: string,
+  content: string,
+  childrent: Array<Section>
+}
